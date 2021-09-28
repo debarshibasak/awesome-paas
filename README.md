@@ -21,6 +21,7 @@ Following providers and products are listed in no particular order.
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc)
 - [Render](https://render.com)
 - [backery](https://backery.io/)
+- [Platform.sh](https://platform.sh)
 
 #### Jamstack
 - [Netlify](https://www.netlify.com)
@@ -47,7 +48,6 @@ Following providers and products are listed in no particular order.
 - [Spaceship](https://spaceship.run)
 - [Runx](https://runx.dev)
 - [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
-- [Platform.sh](https://platform.sh)
 
 
 
