@@ -19,15 +19,22 @@ Following providers and products are listed in no particular order.
 - [Google Cloud Run](https://cloud.google.com/run)
 - [Digitalocean App Platform](https://www.digitalocean.com/products/app-platform)
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc)
+- [Render](https://render.com)
+- [backery](https://backery.io/)
+
+#### Jamstack
 - [Netlify](https://www.netlify.com)
 - [Vercel](https://vercel.com)
 - [layer0](https://www.layer0.co)
-- [Platform.sh](https://platform.sh)
-- [Render](https://render.com)
-- [fly.io](https://fly.io)
-- [backery](https://backery.io/)
+- [Github Pages](https://pages.github.com/)
+- [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud/)
+- [Cloudflare Pages](https://pages.cloudflare.com/)
 
-#### Self-hosted PaaS
+#### Application Delivery Network
+- [Cloudflare Worker](https://workers.cloudflare.com/)
+- [fly.io](https://fly.io)
+
+#### Self-Hosted PaaS or PaaS emulated
 - [Dokku](https://dokku.com)
 - [Caprover](https://caprover.com/)
 - [Hatchbox](https://www.hatchbox.io)
@@ -35,9 +42,12 @@ Following providers and products are listed in no particular order.
 - [Hephy](https://web.teamhephy.com/)
 - [VMware Tanzu](https://tanzu.vmware.com)
 - [Cloudfondry](https://www.cloudfoundry.org/)
-- [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 - [Porter](https://porter.run)
 - [Spacecloud](https://space-cloud.io/)
 - [Spaceship](https://spaceship.run)
 - [Runx](https://runx.dev)
+- [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+- [Platform.sh](https://platform.sh)
+
+
 
