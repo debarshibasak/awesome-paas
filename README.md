@@ -11,9 +11,8 @@ In a scenario if you think your (favorite) service is not listed here. Please fe
 Following providers and products are listed in no particular order.
 
 #### PaaS
-- [Zimki](https://www.slideshare.net/swardley/zimki-2006)
-- [Heroku](https://www.heroku.com)
-- [AWS Amplify](https://aws.amazon.com/amplify)
+- [Zimki](https://www.slideshare.net/swardley/zimki-2006) - one of the original platform as a service offerings from Canon.
+- [Heroku](https://www.heroku.com) - acquired by Salesforce.
 - [AWS App Runner](https://aws.amazon.com/apprunner)
 - [Google cloud appengine](https://cloud.google.com/appengine)
 - [Google Cloud Run](https://cloud.google.com/run)
@@ -30,6 +29,8 @@ Following providers and products are listed in no particular order.
 - [Github Pages](https://pages.github.com/)
 - [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud/)
 - [Cloudflare Pages](https://pages.cloudflare.com/)
+- [AWS Amplify](https://aws.amazon.com/amplify)
+
 
 #### Application Delivery Network
 - [Cloudflare Worker](https://workers.cloudflare.com/)
