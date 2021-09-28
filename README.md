@@ -31,6 +31,7 @@ Following providers and products are listed in no particular order.
 - [Dokku](https://dokku.com)
 - [Caprover](https://caprover.com/)
 - [Hatchbox](https://www.hatchbox.io)
+- [Flynn](https://github.com/flynn/flynn)
 - [VMware Tanzu](https://tanzu.vmware.com)
 - [Porter](https://porter.run)
 - [Spaceship](https://spaceship.run)
