@@ -25,9 +25,11 @@ Following providers and products are listed in no particular order.
 - [Platform.sh](https://platform.sh)
 - [Render](https://render.com)
 - [fly.io](https://fly.io)
+- [backery](https://backery.io/)
 
 #### Self-hosted PaaS
 - [Dokku](https://dokku.com)
+- [Caprover](https://caprover.com/)
 - [Hatchbox](https://www.hatchbox.io)
 - [VMware Tanzu](https://tanzu.vmware.com)
 - [Porter](https://porter.run)
