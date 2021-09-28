@@ -34,6 +34,8 @@ Following providers and products are listed in no particular order.
 - [Flynn](https://github.com/flynn/flynn) 
 - [Hephy](https://web.teamhephy.com/)
 - [VMware Tanzu](https://tanzu.vmware.com)
+- [Cloudfondry](https://www.cloudfoundry.org/)
+- [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 - [Porter](https://porter.run)
 - [Spacecloud](https://space-cloud.io/)
 - [Spaceship](https://spaceship.run)
