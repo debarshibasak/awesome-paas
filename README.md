@@ -50,6 +50,7 @@ Following providers and products are listed in no particular order.
 - [Runx](https://runx.dev)
 - [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 - [Atomized](https://atomizedhq.com/)
+- [Digger](https://digger.dev/)
 
 
 
