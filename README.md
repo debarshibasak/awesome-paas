@@ -8,49 +8,47 @@ In a scenario if you think your (favorite) service is not listed here. Please fe
 
 ### Contents
 
-Following providers and products are listed in no particular order.
+Following providers and products are listed in alphabetical order.
 
 #### PaaS
-- [Zimki](https://www.slideshare.net/swardley/zimki-2006) - one of the original platform as a service offerings from Canon.
-- [Heroku](https://www.heroku.com) - acquired by Salesforce.
 - [AWS App Runner](https://aws.amazon.com/apprunner)
-- [Google cloud appengine](https://cloud.google.com/appengine)
-- [Google Cloud Run](https://cloud.google.com/run)
+- [Backery](https://backery.io/)
 - [Digitalocean App Platform](https://www.digitalocean.com/products/app-platform)
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc)
-- [Render](https://render.com)
-- [backery](https://backery.io/)
+- [Heroku](https://www.heroku.com) - acquired by Salesforce.
+- [Google cloud appengine](https://cloud.google.com/appengine)
+- [Google Cloud Run](https://cloud.google.com/run)
 - [Platform.sh](https://platform.sh)
+- [Render](https://render.com)
+- [Zimki](https://www.slideshare.net/swardley/zimki-2006) - one of the original platform as a service offerings from Canon.
 
 #### Jamstack
+- [AWS Amplify](https://aws.amazon.com/amplify)
+- [Cloudflare Pages](https://pages.cloudflare.com/)
+- [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud/)
+- [Github Pages](https://pages.github.com/)
+- [layer0](https://www.layer0.co)
 - [Netlify](https://www.netlify.com)
 - [Vercel](https://vercel.com)
-- [layer0](https://www.layer0.co)
-- [Github Pages](https://pages.github.com/)
-- [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud/)
-- [Cloudflare Pages](https://pages.cloudflare.com/)
-- [AWS Amplify](https://aws.amazon.com/amplify)
-
 
 #### Application Delivery Network
 - [Cloudflare Worker](https://workers.cloudflare.com/)
 - [fly.io](https://fly.io)
 
 #### Self-Hosted PaaS or PaaS emulated
-- [Dokku](https://dokku.com)
+- [Atomized](https://atomizedhq.com/)
 - [Caprover](https://caprover.com/)
-- [Hatchbox](https://www.hatchbox.io)
-- [Flynn](https://github.com/flynn/flynn) 
-- [Hephy](https://web.teamhephy.com/)
-- [VMware Tanzu](https://tanzu.vmware.com)
 - [Cloudfondry](https://www.cloudfoundry.org/)
+- [Digger](https://digger.dev/)
+- [Dokku](https://dokku.com)
+- [Flynn](https://github.com/flynn/flynn) 
+- [Hatchbox](https://www.hatchbox.io)
+- [Hephy](https://web.teamhephy.com/)
+- [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 - [Porter](https://porter.run)
+- [Runx](https://runx.dev)
 - [Spacecloud](https://space-cloud.io/)
 - [Spaceship](https://spaceship.run)
-- [Runx](https://runx.dev)
-- [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
-- [Atomized](https://atomizedhq.com/)
-- [Digger](https://digger.dev/)
-
+- [VMware Tanzu](https://tanzu.vmware.com)
 
 
