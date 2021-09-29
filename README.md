@@ -32,6 +32,8 @@ Following providers and products are listed in alphabetical order.
 - [Vercel](https://vercel.com)
 
 #### Application Delivery Network
+- [AWS Lambda](https://aws.amazon.com/lambda/)
+- [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/)
 - [Cloudflare Worker](https://workers.cloudflare.com/)
 - [fly.io](https://fly.io)
 
