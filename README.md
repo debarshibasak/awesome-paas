@@ -4,7 +4,7 @@ A curated list of PaaS and tools to emulate PaaS on cloud providers. Inspired by
 
 ### Contributions
 
-In a scenario if you think your (favorite) service is not listed here. Please feel free to create a pull-request. Also, please adhere to the contribution guidelines while making PR. In a scenario where you would like dispute certain service of list, please feel free to create an issue.
+In a scenario if you think your (favorite) service is not listed here. Please feel free to create a pull-request. Also, please adhere to the contribution guidelines while making PR. In a scenario where you would like dispute certain service of list, please feel free to create an issue. Contribution Guidelines can be found [here](CONTRIBUTING.md).
 
 ### Contents
 
