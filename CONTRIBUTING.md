@@ -8,12 +8,10 @@ To set this list awesome-paas is a specially curated list for high-quality of kn
 
 - List items should be sorted *alphabetically*;
 - Each item should be limited to one link;
-- The link should be the name of the package or project;
-- Descriptions should be clear, concise, and non-promotional;
-- Descriptions should follow the link, on the same line and end with a punctuation mark;
+- The link should be the name of the project or service;
 - At least 3 items are needed to create a new category;
 
-Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
+Please contribute links to project/service you have used or are familiar with. This will help ensure high-quality entries.
 
 <!-- If you removed our PR template you can find it [here](https://github.com/avelino/awesome-go/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
  -->
