@@ -4,7 +4,7 @@
 
 - **To add, remove, or change things on the list:** Submit a pull request
 
-To set this list apart from and complement the excellent [Go wiki Projects page](https://golang.org/wiki/Projects), awesome-go is a specially curated list for high-quality, actively maintained Go packages and resources.
+To set this list awesome-paas is a specially curated list for high-quality of known PaaS provider, platforms etc. that fit the description and resources.
 
 - List items should be sorted *alphabetically*;
 - Each item should be limited to one link;
@@ -12,27 +12,11 @@ To set this list apart from and complement the excellent [Go wiki Projects page]
 - Descriptions should be clear, concise, and non-promotional;
 - Descriptions should follow the link, on the same line and end with a punctuation mark;
 - At least 3 items are needed to create a new category;
-- The package or project had to be maintained under **open source license** ( *we make a brief review of the code before the link enters the list* ), [see list of allowed licenses](https://opensource.org/licenses/alphabetical).
 
 Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
 
 <!-- If you removed our PR template you can find it [here](https://github.com/avelino/awesome-go/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
  -->
-
-## Quality standards
-
-To be on the list, project repositories should adhere to these quality standards (https://goreportcard.com/report/github.com/ **github_user** / **github_repo**):
-
-- Code functions as documented and expected
-- Generally useful to the wider community of Go programmers
-- Actively maintained
-  - Regular, recent commits
-  - Or, for finished projects, issues and pull requests are responded to
-- Stable or progressing toward stable
-- Thoroughly documented (README, pkg.go.dev doc comments, etc.) in english language, so everyone is able to understand the project's intention and how it works
-- Tests, where practical. If the library/program is testable, then coverage should be >= 80% for non-data-related packages and >=90% for data related packages. **Notice**: the tests will be reviewed too. We will check your coverage manually if your package's coverage is just a benchmark results.
-
-
 
 ## Maintainers
 
