@@ -61,3 +61,13 @@ Following providers and products are listed in alphabetical order.
 - [VMware Tanzu](https://tanzu.vmware.com)
 
 
+#### Cloud IDE/Developer Workspaces
+- [Cocalc](https://cocalc.com/)
+- [Coder.com](https://coder.com/)
+- [Codesanbox](https://codesandbox.io/)
+- [Codetasty](https://codetasty.com/)
+- [Cloud9](https://aws.amazon.com/cloud9/)
+- [Okteto](https://okteto.com/)
+- [Paizacloud] https://paiza.cloud/en/jupyter-notebook-online
+- [Sourcelair](https://ide.sourcelair.com/home)
+
