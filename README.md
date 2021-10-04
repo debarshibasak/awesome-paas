@@ -61,10 +61,10 @@ Following providers and products are listed in alphabetical order.
 - [Porter](https://porter.run)
 - [Qovery](https://www.qovery.com/)
 - [Runx](https://runx.dev)
+- [Setops](https://www.setops.co/)
 - [Skaffold](https://skaffold.dev/)
 - [Spacecloud](https://space-cloud.io/)
 - [Spaceship](https://spaceship.run)
-- [Setops](https://www.setops.co/)
 - [VMware Tanzu](https://tanzu.vmware.com)
 
 
