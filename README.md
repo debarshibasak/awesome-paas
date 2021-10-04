@@ -64,6 +64,7 @@ Following providers and products are listed in alphabetical order.
 - [Skaffold](https://skaffold.dev/)
 - [Spacecloud](https://space-cloud.io/)
 - [Spaceship](https://spaceship.run)
+- [Setops](https://www.setops.co/)
 - [VMware Tanzu](https://tanzu.vmware.com)
 
 
