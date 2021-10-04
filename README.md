@@ -62,7 +62,7 @@ Following providers and products are listed in alphabetical order.
 - [VMware Tanzu](https://tanzu.vmware.com)
 
 
-#### Cloud IDE/Developer Workspaces
+#### Cloud IDE or Developer Workspaces
 - [Cocalc](https://cocalc.com/)
 - [Coder.com](https://coder.com/)
 - [Codesanbox](https://codesandbox.io/)
