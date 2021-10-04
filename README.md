@@ -59,6 +59,7 @@ Following providers and products are listed in alphabetical order.
 - [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 - [Piku]( https://github.com/piku/piku)
 - [Porter](https://porter.run)
+- [Qovery](https://www.qovery.com/)
 - [Runx](https://runx.dev)
 - [Skaffold](https://skaffold.dev/)
 - [Spacecloud](https://space-cloud.io/)
