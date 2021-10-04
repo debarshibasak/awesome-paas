@@ -1,5 +1,5 @@
 # Awesome PaaS
-A curated list of PaaS and tools to emulate PaaS on cloud providers. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of PaaS, developer platforms tools to emulate PaaS on cloud, Cloud IDEs and ADNs. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 
 ### Contributions
