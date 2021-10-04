@@ -43,7 +43,7 @@ Following providers and products are listed in alphabetical order.
 #### Self-Hosted PaaS or PaaS emulated
 - [Atomized](https://atomizedhq.com/)
 - [Caprover](https://caprover.com/)
-- [Cloudfondry](https://www.cloudfoundry.org/)
+- [Cloud Foundry](https://www.cloudfoundry.org/)
 - [Digger](https://digger.dev/)
 - [Dokku](https://dokku.com)
 - [Flynn](https://github.com/flynn/flynn) 
