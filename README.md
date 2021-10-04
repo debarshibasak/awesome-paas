@@ -68,6 +68,6 @@ Following providers and products are listed in alphabetical order.
 - [Codetasty](https://codetasty.com/)
 - [Cloud9](https://aws.amazon.com/cloud9/)
 - [Okteto](https://okteto.com/)
-- [Paizacloud] https://paiza.cloud/en/jupyter-notebook-online
+- [Paizacloud](https://paiza.cloud/en/jupyter-notebook-online)
 - [Sourcelair](https://ide.sourcelair.com/home)
 
