@@ -30,6 +30,7 @@ Following providers and products are listed in alphabetical order.
 - [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud/)
 - [Github Pages](https://pages.github.com/)
 - [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)
+- [Glitch](https://glitch.com/)
 - [layer0](https://www.layer0.co)
 - [Netlify](https://www.netlify.com)
 - [Vercel](https://vercel.com)
