@@ -52,6 +52,7 @@ Following providers and products are listed in alphabetical order.
 - [Hephy](https://web.teamhephy.com/)
 - [Kubeless](https://kubeless.io/)
 - [Knative](https://knative.dev/docs/)
+- [Northflank](https://northflank.com/)
 - [Openfaas](https://www.openfaas.com/)
 - [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 - [Porter](https://porter.run)
