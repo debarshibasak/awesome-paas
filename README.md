@@ -17,7 +17,7 @@ Following providers and products are listed in alphabetical order.
 - [Digitalocean App Platform](https://www.digitalocean.com/products/app-platform)
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc)
 - [Heroku](https://www.heroku.com) - acquired by Salesforce.
-- [Google cloud appengine](https://cloud.google.com/appengine)
+- [Google Cloud AppEngine](https://cloud.google.com/appengine)
 - [Google Cloud Run](https://cloud.google.com/run)
 - [Platform.sh](https://platform.sh)
 - [Railway](https://railway.app/)
@@ -59,6 +59,7 @@ Following providers and products are listed in alphabetical order.
 - [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 - [Piku]( https://github.com/piku/piku)
 - [Porter](https://porter.run)
+- [PowerTools](https://www.powertools.dev/)
 - [Qovery](https://www.qovery.com/)
 - [Runx](https://runx.dev)
 - [Setops](https://www.setops.co/)
@@ -66,6 +67,7 @@ Following providers and products are listed in alphabetical order.
 - [Spacecloud](https://space-cloud.io/)
 - [Spaceship](https://spaceship.run)
 - [VMware Tanzu](https://tanzu.vmware.com)
+- [Zeet](https://zeet.co)
 
 
 #### Cloud IDE or Developer Workspaces
