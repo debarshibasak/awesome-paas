@@ -76,6 +76,7 @@ Following providers and products are listed in alphabetical order.
 - [Codesanbox](https://codesandbox.io/)
 - [Codetasty](https://codetasty.com/)
 - [Cloud9](https://aws.amazon.com/cloud9/)
+- [Encore](https://encore.dev/)
 - [Gitpod](https://www.gitpod.io/)
 - [Okteto](https://okteto.com/)
 - [Paizacloud](https://paiza.cloud/en/jupyter-notebook-online)
