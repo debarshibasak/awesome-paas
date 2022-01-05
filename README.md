@@ -20,6 +20,7 @@ Following providers and products are listed in alphabetical order.
 - [Google Cloud AppEngine](https://cloud.google.com/appengine)
 - [Google Cloud Run](https://cloud.google.com/run)
 - [Platform.sh](https://platform.sh)
+- [Ploi](https://ploi.io)
 - [Railway](https://railway.app/)
 - [Render](https://render.com)
 - [Zimki](https://www.slideshare.net/swardley/zimki-2006) - one of the original platform as a service offerings from Canon.
