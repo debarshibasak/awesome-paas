@@ -81,6 +81,7 @@ Following providers and products are listed in alphabetical order.
 - [Codesandbox](https://codesandbox.io/)
 - [Codetasty](https://codetasty.com/)
 - [Cloud9](https://aws.amazon.com/cloud9/)
+- [Eclipse Che](https://www.eclipse.org/che/)
 - [Encore](https://encore.dev/)
 - [Gitpod](https://www.gitpod.io/)
 - [Okteto](https://okteto.com/)
