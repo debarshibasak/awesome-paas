@@ -16,6 +16,7 @@ Following providers and products are listed in alphabetical order.
 - [Backery](https://backery.io/)
 - [Digitalocean App Platform](https://www.digitalocean.com/products/app-platform)
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc)
+- [Fly.io](https://fly.io)
 - [Heroku](https://www.heroku.com) - acquired by Salesforce.
 - [Google Cloud AppEngine](https://cloud.google.com/appengine)
 - [Google Cloud Run](https://cloud.google.com/run)
@@ -23,6 +24,7 @@ Following providers and products are listed in alphabetical order.
 - [Ploi](https://ploi.io)
 - [Railway](https://railway.app/)
 - [Render](https://render.com)
+- [Supabase.io](https://github.com/supabase/supabase)
 - [Zimki](https://www.slideshare.net/swardley/zimki-2006) - one of the original platform as a service offerings from Canon.
 
 #### Jamstack
@@ -39,11 +41,13 @@ Following providers and products are listed in alphabetical order.
 #### Application Delivery Network
 - [AWS Lambda](https://aws.amazon.com/lambda/)
 - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/)
-- [Cloudflare Worker](https://workers.cloudflare.com/)
-- [fly.io](https://fly.io)
+- [Cloudflare Workers](https://workers.cloudflare.com/)
+- [Deno Deploy](https://deno.com/deploy)
+- [Suborbital Atmo](https://github.com/suborbital/atmo)
 
 #### Self-Hosted PaaS or PaaS emulated
 - [Atomized](https://atomizedhq.com/)
+- [Azure Krustlet](https://krustlet.dev/)
 - [Caprover](https://caprover.com/)
 - [Cloud Foundry](https://www.cloudfoundry.org/)
 - [Digger](https://digger.dev/)
