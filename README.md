@@ -73,7 +73,7 @@ Following providers and products are listed in alphabetical order.
 #### Cloud IDE or Developer Workspaces
 - [Cocalc](https://cocalc.com/)
 - [Coder.com](https://coder.com/)
-- [Codesanbox](https://codesandbox.io/)
+- [Codesandbox](https://codesandbox.io/)
 - [Codetasty](https://codetasty.com/)
 - [Cloud9](https://aws.amazon.com/cloud9/)
 - [Encore](https://encore.dev/)
