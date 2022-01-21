@@ -20,6 +20,7 @@ Following providers and products are listed in alphabetical order.
 - [Heroku](https://www.heroku.com) - acquired by Salesforce.
 - [Google Cloud AppEngine](https://cloud.google.com/appengine)
 - [Google Cloud Run](https://cloud.google.com/run)
+- [Koyeb](https://www.koyeb.com)
 - [Platform.sh](https://platform.sh)
 - [Ploi](https://ploi.io)
 - [Railway](https://railway.app/)
