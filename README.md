@@ -14,6 +14,7 @@ Following providers and products are listed in alphabetical order.
 - [AWS App Runner](https://aws.amazon.com/apprunner)
 - [AWS ECS](https://aws.amazon.com/ecs)
 - [Backery](https://backery.io/)
+- [Cyclic](https://www.cyclic.sh/)
 - [Digitalocean App Platform](https://www.digitalocean.com/products/app-platform)
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc)
 - [Fly.io](https://fly.io)
