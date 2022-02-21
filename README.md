@@ -27,6 +27,7 @@ Following providers and products are listed in alphabetical order.
 - [Railway](https://railway.app/)
 - [Render](https://render.com)
 - [Supabase.io](https://github.com/supabase/supabase)
+- [TinyStacks](https://www.tinystacks.com/)
 - [Zimki](https://www.slideshare.net/swardley/zimki-2006) - one of the original platform as a service offerings from Canon.
 
 #### Jamstack
