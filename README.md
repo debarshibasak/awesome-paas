@@ -12,6 +12,7 @@ Following providers and products are listed in alphabetical order.
 
 #### PaaS or CaaS
 - [AWS App Runner](https://aws.amazon.com/apprunner)
+- [Artifakt](https://www.artifakt.com/)
 - [AWS ECS](https://aws.amazon.com/ecs)
 - [Backery](https://backery.io/)
 - [Cyclic](https://www.cyclic.sh/)
