@@ -11,6 +11,7 @@ In a scenario if you think your (favorite) service is not listed here. Please fe
 Following providers and products are listed in alphabetical order.
 
 #### PaaS or CaaS
+- [Artifakt](https://www.artifakt.com/)
 - [AWS App Runner](https://aws.amazon.com/apprunner)
 - [AWS ECS](https://aws.amazon.com/ecs)
 - [Backery](https://backery.io/)
