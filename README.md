@@ -67,6 +67,7 @@ Following providers and products are listed in alphabetical order.
 - [Northflank](https://northflank.com/)
 - [Openfaas](https://www.openfaas.com/)
 - [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+- [Otomi](https://otomi.io/)
 - [Piku]( https://github.com/piku/piku)
 - [Porter](https://porter.run)
 - [PowerTools](https://www.powertools.dev/)
