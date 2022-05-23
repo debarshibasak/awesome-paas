@@ -51,6 +51,7 @@ Following providers and products are listed in alphabetical order.
 - [Suborbital Atmo](https://github.com/suborbital/atmo)
 
 #### Self-Hosted PaaS or PaaS emulated
+- [Argonaut](https://argonaut.dev/)
 - [Atomized](https://atomizedhq.com/)
 - [Azure Krustlet](https://krustlet.dev/)
 - [Caprover](https://caprover.com/)
