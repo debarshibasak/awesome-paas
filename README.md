@@ -66,6 +66,7 @@ Following providers and products are listed in alphabetical order.
 - [Kubeless](https://kubeless.io/)
 - [Kubernetes](https://kubernetes.io/)
 - [Knative](https://knative.dev/docs/)
+- [Linx](https://linx.software)
 - [Northflank](https://northflank.com/)
 - [Openfaas](https://www.openfaas.com/)
 - [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
