@@ -65,6 +65,7 @@ Following providers and products are listed in alphabetical order.
 - [Hephy](https://web.teamhephy.com/)
 - [Kubeless](https://kubeless.io/)
 - [Kubernetes](https://kubernetes.io/)
+- [Kubero](https://github.com/kubero-dev/kubero)
 - [Knative](https://knative.dev/docs/)
 - [Linx](https://linx.software)
 - [Northflank](https://northflank.com/)
@@ -97,4 +98,3 @@ Following providers and products are listed in alphabetical order.
 - [Paizacloud](https://paiza.cloud/en/jupyter-notebook-online)
 - [Releasehub](https://releasehub.com/)
 - [Sourcelair](https://ide.sourcelair.com/home)
-
