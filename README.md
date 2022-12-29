@@ -86,6 +86,7 @@ Following providers and products are listed in alphabetical order.
 
 
 #### Cloud IDE or Developer Workspaces
+- [Adaptive](https://www.adaptive.live/)
 - [Cocalc](https://cocalc.com/)
 - [Coder.com](https://coder.com/)
 - [Codesandbox](https://codesandbox.io/)
