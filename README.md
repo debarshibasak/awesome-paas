@@ -88,6 +88,7 @@ Following providers and products are listed in alphabetical order.
 #### Cloud IDE or Developer Workspaces
 - [Adaptive](https://www.adaptive.live/)
 - [Cocalc](https://cocalc.com/)
+- [Codepen](https://codepen.io/)
 - [Coder.com](https://coder.com/)
 - [Codesandbox](https://codesandbox.io/)
 - [Codetasty](https://codetasty.com/)
@@ -98,4 +99,6 @@ Following providers and products are listed in alphabetical order.
 - [Okteto](https://okteto.com/)
 - [Paizacloud](https://paiza.cloud/en/jupyter-notebook-online)
 - [Releasehub](https://releasehub.com/)
+- [Replit](https://replit.com/)
+- [Stackblitz](https//stackblitz.com/)
 - [Sourcelair](https://ide.sourcelair.com/home)
