@@ -55,7 +55,7 @@ Following providers and products are listed in alphabetical order.
 - [Argonaut](https://argonaut.dev/)
 - [Atomized](https://atomizedhq.com/)
 - [Azure Krustlet](https://krustlet.dev/)
-- [BoltOps] (https://www.boltops.com/)
+- [BoltOps](https://www.boltops.com/)
 - [Caprover](https://caprover.com/)
 - [Cloud Foundry](https://www.cloudfoundry.org/)
 - [Digger](https://digger.dev/)
