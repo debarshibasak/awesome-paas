@@ -53,7 +53,6 @@ Following providers and products are listed in alphabetical order.
 
 #### Self-Hosted PaaS or PaaS emulated
 - [Argonaut](https://argonaut.dev/)
-- [Atomized](https://atomizedhq.com/)
 - [Azure Krustlet](https://krustlet.dev/)
 - [BoltOps](https://www.boltops.com/)
 - [Caprover](https://caprover.com/)
@@ -75,9 +74,7 @@ Following providers and products are listed in alphabetical order.
 - [Otomi](https://otomi.io/)
 - [Piku]( https://github.com/piku/piku)
 - [Porter](https://porter.run)
-- [PowerTools](https://www.powertools.dev/)
 - [Qovery](https://www.qovery.com/)
-- [Runx](https://runx.dev)
 - [Setops](https://www.setops.co/)
 - [Skaffold](https://skaffold.dev/)
 - [Spacecloud](https://space-cloud.io/)
