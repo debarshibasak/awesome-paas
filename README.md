@@ -97,7 +97,7 @@ Following providers and products are listed in alphabetical order.
 - [Gitpod](https://www.gitpod.io/)
 - [Okteto](https://okteto.com/)
 - [Paizacloud](https://paiza.cloud/en/jupyter-notebook-online)
-- [Releasehub](https://releasehub.com/)
+- [Release](https://release.com/)
 - [Replit](https://replit.com/)
 - [Stackblitz](https//stackblitz.com/)
 - [Sourcelair](https://ide.sourcelair.com/home)
