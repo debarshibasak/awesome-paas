@@ -20,6 +20,7 @@ Following providers and products are listed in alphabetical order.
 - [Cyclic](https://www.cyclic.sh/)
 - [Digitalocean App Platform](https://www.digitalocean.com/products/app-platform)
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc)
+- [Flightcontrol](https://www.flightcontrol.dev?ref=awesome-paas)
 - [Fly.io](https://fly.io)
 - [Heroku](https://www.heroku.com) - acquired by Salesforce.
 - [Google Cloud AppEngine](https://cloud.google.com/appengine)
