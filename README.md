@@ -12,6 +12,7 @@ Following providers and products are listed in alphabetical order.
 
 #### PaaS or CaaS
 - [Appliku](https://appliku.com)
+- [Aptible](https://aptible.com)
 - [Artifakt](https://www.artifakt.com/)
 - [AWS App Runner](https://aws.amazon.com/apprunner)
 - [AWS ECS](https://aws.amazon.com/ecs)
