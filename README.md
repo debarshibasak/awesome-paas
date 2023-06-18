@@ -34,6 +34,7 @@ Following providers and products are listed in alphabetical order.
 - [Supabase.io](https://github.com/supabase/supabase)
 - [TinyFunction](https://www.tinyfunction.com/)
 - [TinyStacks](https://www.tinystacks.com/)
+- [Zeabur](https://zeabur.com)
 - [Zimki](https://www.slideshare.net/swardley/zimki-2006) - one of the original platform as a service offerings from Canon.
 
 #### Jamstack
@@ -84,6 +85,7 @@ Following providers and products are listed in alphabetical order.
 - [Spaceship](https://spaceship.run)
 - [TrueFoundry](https://truefoundry.com)
 - [VMware Tanzu](https://tanzu.vmware.com)
+- [Zeabur](https://zeabur.com)
 - [Zeet](https://zeet.co)
 
 
