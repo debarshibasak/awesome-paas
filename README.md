@@ -18,6 +18,7 @@ Following providers and products are listed in alphabetical order.
 - [AWS ECS](https://aws.amazon.com/ecs)
 - [Backery](https://backery.io/)
 - [Clever Cloud](https://www.clever-cloud.com/)
+- [Cloud 66](https://www.cloud66.com/) on your own cloud or server. 
 - [Cyclic](https://www.cyclic.sh/)
 - [Digitalocean App Platform](https://www.digitalocean.com/products/app-platform)
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc)
