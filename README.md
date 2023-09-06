@@ -19,6 +19,7 @@ Following providers and products are listed in alphabetical order.
 - [Backery](https://backery.io/)
 - [Clever Cloud](https://www.clever-cloud.com/)
 - [Cloud 66](https://www.cloud66.com/) on your own cloud or server. 
+- [Coherence](https://www.withcoherence.com/?ref=awesome-paas) in your own AWS or GCP account. 
 - [Cyclic](https://www.cyclic.sh/)
 - [Digitalocean App Platform](https://www.digitalocean.com/products/app-platform)
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc)
