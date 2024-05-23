@@ -64,6 +64,7 @@ Following providers and products are listed in alphabetical order.
 - [BoltOps](https://www.boltops.com/)
 - [Caprover](https://caprover.com/)
 - [Cloud Foundry](https://www.cloudfoundry.org/)
+- [Coolify](https://coolify.io/) 
 - [Digger](https://digger.dev/)
 - [Docker Swarm](https://docs.docker.com/engine/swarm/)
 - [Dokku](https://dokku.com)
