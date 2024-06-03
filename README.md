@@ -89,11 +89,11 @@ Following providers and products are listed in alphabetical order.
 - [Skaffold](https://skaffold.dev/)
 - [Spacecloud](https://space-cloud.io/)
 - [Spaceship](https://spaceship.run)
+- [Stacksnap](https://klo.dev/stacksnap)
 - [TrueFoundry](https://truefoundry.com)
 - [VMware Tanzu](https://tanzu.vmware.com)
 - [Zeabur](https://zeabur.com)
 - [Zeet](https://zeet.co)
-
 
 #### Cloud IDE or Developer Workspaces
 - [Adaptive](https://www.adaptive.live/)
