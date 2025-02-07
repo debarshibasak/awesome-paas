@@ -33,6 +33,7 @@ Following providers and products are listed in alphabetical order.
 - [Ploi](https://ploi.io)
 - [Railway](https://railway.app/)
 - [Render](https://render.com)
+- [Sliplane.io](https://sliplane.io)
 - [Supabase.io](https://github.com/supabase/supabase)
 - [TinyFunction](https://www.tinyfunction.com/)
 - [TinyStacks](https://www.tinystacks.com/)
