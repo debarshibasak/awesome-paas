@@ -21,6 +21,7 @@ Following providers and products are listed in alphabetical order.
 - [Coherence](https://www.withcoherence.com/?ref=awesome-paas) in your own AWS or GCP account. 
 - [Cyclic](https://www.cyclic.sh/)
 - [Digitalocean App Platform](https://www.digitalocean.com/products/app-platform)
+- [Back4app Web Deployment](https://www.back4app.com/web-deployment-platform) 
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc)
 - [Flightcontrol](https://www.flightcontrol.dev?ref=awesome-paas)
 - [Fly.io](https://fly.io)
