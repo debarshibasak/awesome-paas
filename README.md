@@ -67,6 +67,7 @@ Following providers and products are listed in alphabetical order.
 - [Cloud Foundry](https://www.cloudfoundry.org/)
 - [Coolify](https://coolify.io/) 
 - [Digger](https://digger.dev/)
+- [Disco](https://disco.cloud/)
 - [Docker Swarm](https://docs.docker.com/engine/swarm/)
 - [Dokku](https://dokku.com)
 - [Flynn](https://github.com/flynn/flynn) 
