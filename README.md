@@ -68,6 +68,7 @@ Following providers and products are listed in alphabetical order.
 - [Coolify](https://coolify.io/) 
 - [Digger](https://digger.dev/)
 - [Disco](https://disco.cloud/)
+- [dyrector.io](https://dyrector.io/)
 - [Docker Swarm](https://docs.docker.com/engine/swarm/)
 - [Dokku](https://dokku.com)
 - [Flynn](https://github.com/flynn/flynn) 
