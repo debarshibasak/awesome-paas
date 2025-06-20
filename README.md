@@ -65,6 +65,7 @@ Following providers and products are listed in alphabetical order.
 - [Argonaut](https://argonaut.dev/)
 - [Azure Krustlet](https://krustlet.dev/)
 - [BoltOps](https://www.boltops.com/)
+- [Canine](https://canine.sh/)
 - [Caprover](https://caprover.com/)
 - [Cloud Foundry](https://www.cloudfoundry.org/)
 - [Coolify](https://coolify.io/) 
