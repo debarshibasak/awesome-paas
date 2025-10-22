@@ -100,6 +100,7 @@ Following providers and products are listed in alphabetical order.
 - [TrueFoundry](https://truefoundry.com)
 - [Uncloud](https://uncloud.run)
 - [VMware Tanzu](https://tanzu.vmware.com)
+- [ZaneOps](https://zaneops.dev)
 - [Zeabur](https://zeabur.com)
 - [Zeet](https://zeet.co)
 
