@@ -63,6 +63,7 @@ Following providers and products are listed in alphabetical order.
 - [TinyStacks](https://www.tinystacks.com/) `defunct` — domain listed for sale; project no longer operating.
 - [Upsun (formerly Platform.sh)](https://platform.sh) `alive` — highly flexible PaaS with predictable pricing and self-service resources.
 - [Zeabur](https://zeabur.com) `alive` — AI DevOps engineer; an agent that runs your infrastructure while AI writes your code.
+- [Zerops](https://zerops.io) `alive` — bare-metal developer cloud with full Linux containers, hardware-only pricing, and managed databases on project-private networking.
 - [Zimki](https://www.slideshare.net/swardley/zimki-2006) `defunct` — historical; one of the original platform-as-a-service offerings, from Canon.
 
 #### Sandboxes and Harnesses
