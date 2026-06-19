@@ -29,6 +29,7 @@ Following providers and products are listed in alphabetical order.
 - [Coherence](https://www.withcoherence.com/?ref=awesome-paas) `defunct` — site offline; product was a PaaS in your own AWS or GCP account.
 - [Convox](https://convox.com) `alive` — multi-cloud PaaS with consistent deployment workflows.
 - [Cyclic](https://www.cyclic.sh/) `defunct` — site offline; project was acquired and shut down.
+- [DeployHQ](https://www.deployhq.com) `alive` — Git-based deployment automation that deploys from GitHub, GitLab, or Bitbucket to servers via SSH/SFTP/S3 with build pipelines and one-click rollback.
 - [Digitalocean App Platform](https://www.digitalocean.com/products/app-platform) `alive` — DigitalOcean's managed PaaS for building, deploying, and scaling apps.
 - [DigitalOcean Functions](https://www.digitalocean.com/products/functions) `alive` — DigitalOcean's serverless functions platform.
 - [Diploi](https://diploi.com/) `alive` — cloud development environments with one-click hosting; no manual server configuration.
