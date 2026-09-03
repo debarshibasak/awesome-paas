@@ -67,6 +67,7 @@ Following providers and products are listed in alphabetical order.
 - [Sevalla](https://sevalla.com) `alive` — modern application hosting platform from Kinsta.
 - [Sliplane.io](https://sliplane.io) `alive` — fully managed Container as a Service platform that simplifies Docker hosting.
 - [SnapDeploy](https://snapdeploy.dev) `alive` — Docker container hosting on AWS. Deploy for free, pay only when you need always on.
+- [sota.io](https://sota.io) `alive` — EU-native managed PaaS on Hetzner Germany infrastructure, git-push deploy for any language, managed PostgreSQL 17 included, no US parent/CLOUD Act exposure, from EUR 9/month.
 - [Supabase.io](https://github.com/supabase/supabase) `alive` — open-source Postgres development platform for web, mobile, and AI applications.
 - [TinyFunction](https://www.tinyfunction.com/) `alive` — lightweight function hosting.
 - [TinyStacks](https://www.tinystacks.com/) `defunct` — domain listed for sale; project no longer operating.
