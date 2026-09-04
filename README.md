@@ -143,6 +143,7 @@ Following providers and products are listed in alphabetical order.
 - [Openfaas](https://www.openfaas.com/) `alive` — serverless functions made simple with Kubernetes.
 - [OpenRun](https://openrun.dev/) `alive` — open source deployment platform for internal tools; deploy web apps declaratively on a single node or Kubernetes, with OIDC/SAML auth and RBAC.
 - [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift) `alive` — Red Hat's unified application development platform for hybrid cloud.
+- [Peon](https://peon.sh) `alive` - open source self-hosted Docker PaaS for Git apps, Compose stacks, databases, and static sites (alternative to Vercel, Heroku).
 - [Piku](https://github.com/piku/piku) `alive` — the tiniest PaaS you've ever seen; git push deployments to your own servers.
 - [Plural](https://www.plural.sh) `alive` — open-source platform for deploying applications on Kubernetes.
 - [Podi](https://github.com/coderofsalvation/podi) `alive` — cute (~7kb) gitops utility to turn servers into PaaS platforms using git+ssh.
