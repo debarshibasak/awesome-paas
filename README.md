@@ -56,6 +56,7 @@ Following providers and products are listed in alphabetical order.
 - [Linode (Akamai Cloud)](https://www.linode.com) `alive` — Akamai's developer cloud with managed Kubernetes, databases, and compute.
 - [MicroCloud](https://canonical.com/microcloud) `alive` — Canonical's lightweight, automated open source cloud platform.
 - [Mogenius](https://mogenius.com) `alive` — cloud-native development platform built on Kubernetes.
+- [Nife](https://nife.io/) `alive` — application platform for deploying and operating workloads across public cloud, edge, Kubernetes, bare metal, and private infrastructure from one control plane.
 - [Orbit](https://orbit.runonflux.com) `alive` — deploy any Git repo to the Flux decentralized cloud; git push-to-deploy with Nixpacks framework detection, no single point of failure, no egress fees, and a free-forever tier (paid from $0.99/mo)
 - [Ownkube](https://ownkube.io) `alive` — developer platform in your own AWS account on k3s or EKS; named agents (Cost, Incident, Scaling, Security) run your ops.
 - [platformOS](https://platformos.com) `alive` — fully managed PaaS with no vendor lock-in or hidden fees.
