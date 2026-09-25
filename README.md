@@ -1,6 +1,6 @@
 # Awesome PaaS
-A curated list of PaaS, developer platforms tools to emulate PaaS on cloud, Cloud IDEs and ADNs. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
+A curated list of PaaS, developer platforms tools to emulate PaaS on cloud, Cloud IDEs and ADNs. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Contributions
 
@@ -15,6 +15,7 @@ Each entry below is tagged `alive` (still operating) or `defunct` (project ended
 Following providers and products are listed in alphabetical order.
 
 #### PaaS or CaaS
+
 - [Adios](https://www.adios.dev/) `alive` — AI app development and hosting platform with ai workspaces, previews, logs, and health-checked production deployments.
 - [Acquia Cloud](https://www.acquia.com) `alive` — Drupal-focused cloud platform for digital experiences.
 - [ApexWeave](https://apexweave.com) `alive` — Heroku-style PaaS with git push deploys, managed databases, and WordPress hosting; 14-day free trial, no credit card required.
@@ -78,6 +79,7 @@ Following providers and products are listed in alphabetical order.
 - [Zimki](https://www.slideshare.net/swardley/zimki-2006) `defunct` — historical; one of the original platform-as-a-service offerings, from Canon.
 
 #### Sandboxes and Harnesses
+
 - [Adaptive](https://www.adaptive.live/) `alive` — access control plane for human, workload, and AI identities in hybrid environments.
 - [AgentBox](https://github.com/madarco/agentbox) `alive` — run multiple coding agents (Claude Code, Codex, OpenCode) in parallel sandboxed VMs across local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B, DigitalOcean); sub-1s checkpoints, git credentials kept on the host.
 - [Beam Cloud](https://www.beam.cloud/) `alive` — AI infrastructure for sandboxes, inference, and training with ultrafast boot times and instant autoscaling.
@@ -87,8 +89,8 @@ Following providers and products are listed in alphabetical order.
 - [Runloop](https://www.runloop.ai/) `alive` — AI agent accelerator with secure code sandboxes and evaluations for production agents.
 - [RunPod](https://www.runpod.io) `alive` — GPU cloud for AI training and inference workloads.
 
-
 #### Jamstack
+
 - [AWS Amplify](https://aws.amazon.com/amplify) `alive` — full-stack web and mobile app development platform on AWS.
 - [Cloudflare Pages](https://pages.cloudflare.com/) `alive` — Jamstack hosting on Cloudflare's global edge network.
 - [Firebase Hosting](https://firebase.google.com/products/hosting) `alive` — Google's fast, secure web app hosting.
@@ -103,6 +105,7 @@ Following providers and products are listed in alphabetical order.
 - [Vercel](https://vercel.com) `alive` — frontend cloud for Next.js and other frameworks.
 
 #### Application Delivery Network
+
 - [Akamai Functions (formerly Fermyon Spin)](https://www.fermyon.com) `alive` — WebAssembly-based serverless platform, now part of Akamai.
 - [AWS Lambda](https://aws.amazon.com/lambda/) `alive` — serverless compute service that runs code without provisioning servers.
 - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) `alive` — event-driven, scheduled serverless compute on Azure.
@@ -113,6 +116,7 @@ Following providers and products are listed in alphabetical order.
 - [Wasmer Edge](https://wasmer.io/products/edge) `alive` — WebAssembly-based edge platform.
 
 #### Self-Hosted PaaS or PaaS emulated
+
 - [Akamai App Platform (formerly Otomi)](https://otomi.io/) `alive` — Kubernetes app platform; now part of Akamai.
 - [Appaloft](https://github.com/appaloft/appaloft) `alive` — open-source Railway alternative: deploy a folder to a URL with `appaloft up` (git optional) on servers you control, plus `appaloft setup agent` for Cursor/OpenCode.
 - [Argonaut](https://argonaut.dev/) `defunct` — argonaut.dev now serves WarpBuild; the original Argonaut platform is no longer operating.
@@ -129,12 +133,14 @@ Following providers and products are listed in alphabetical order.
 - [Docker Swarm](https://docs.docker.com/engine/swarm/) `alive` — Docker's built-in container orchestrator.
 - [Dokku](https://dokku.com) `alive` — the smallest PaaS implementation; Heroku-style git push deploys.
 - [Dokploy](https://github.com/dokploy/dokploy) `alive` — open source alternative to Vercel, Netlify, and Heroku.
+- [Doktainer](https://github.com/DoktainerApp/doktainer) `alive` — Manage Docker, Simplify Everything.
 - [dyrector.io](https://dyrector.io/) `alive` — self-hosted continuous delivery & deployment platform with version management.
 - [Easypanel](https://easypanel.io) `alive` — modern server control panel for deploying apps and databases.
 - [Flynn](https://github.com/flynn/flynn) `defunct` — next-generation open source PaaS; project unmaintained.
 - [Hatchbox](https://www.hatchbox.io) `alive` — cost-effective hosting for Rails, Ruby, and Node.js on your own infrastructure.
 - [Hephy](https://web.teamhephy.com/) `defunct` — site offline; community-maintained successor to Deis is no longer reachable.
 - [Humanitec](https://humanitec.com/) `alive` — Internal Developer Platform for the enterprise.
+- [JustDeploy](https://github.com/cchalop1/JustDeploy) `alive` — PaaS tool designed to simplify the lives of developers, deploy applications to own servers in just one click.
 - [Kamal](https://kamal-deploy.org) `alive` — deploy web apps anywhere from bare metal to cloud VMs (by 37signals).
 - [Knative](https://knative.dev/docs/) `alive` — Kubernetes-based platform for serverless workloads.
 - [Komodor](https://komodor.com/) `alive` — autonomous AI SRE platform for Kubernetes.
@@ -146,6 +152,7 @@ Following providers and products are listed in alphabetical order.
 - [Openfaas](https://www.openfaas.com/) `alive` — serverless functions made simple with Kubernetes.
 - [OpenRun](https://openrun.dev/) `alive` — open source deployment platform for internal tools; deploy web apps declaratively on a single node or Kubernetes, with OIDC/SAML auth and RBAC.
 - [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift) `alive` — Red Hat's unified application development platform for hybrid cloud.
+- [Openship](https://github.com/oblien/openship) `alive` — Open-source, self-hostable deployment platform with built-in CI/CD.
 - [Peon](https://peon.sh) `alive` - open source self-hosted Docker PaaS for Git apps, Compose stacks, databases, and static sites (alternative to Vercel, Heroku).
 - [Piku](https://github.com/piku/piku) `alive` — the tiniest PaaS you've ever seen; git push deployments to your own servers.
 - [Plural](https://www.plural.sh) `alive` — open-source platform for deploying applications on Kubernetes.
@@ -167,6 +174,7 @@ Following providers and products are listed in alphabetical order.
 - [Zeet](https://zeet.co) `alive` — combines CI/CD, Kubernetes management, networking, and observability into one dashboard.
 
 #### Cloud IDE or Developer Workspaces
+
 - [Cocalc](https://cocalc.com/) `alive` — collaborative calculation and data science platform.
 - [Codepen](https://codepen.io/) `alive` — front-end playground for HTML, CSS, and JavaScript.
 - [Coder.com](https://coder.com/) `alive` — enterprise AI development infrastructure; self-hosted environments.
@@ -185,5 +193,3 @@ Following providers and products are listed in alphabetical order.
 - [Signadot](https://www.signadot.com/) `alive` — fast ephemeral Kubernetes sandboxes for code changes.
 - [Sourcelair](https://ide.sourcelair.com/home) `alive` — online IDE supporting 25+ languages with Git, GitHub, and Heroku integration.
 - [Stackblitz](https://stackblitz.com/) `alive` — instant in-browser dev environments powered by WebContainers.
-
-
