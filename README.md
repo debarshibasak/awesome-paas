@@ -194,3 +194,4 @@ Following providers and products are listed in alphabetical order.
 - [Signadot](https://www.signadot.com/) `alive` — fast ephemeral Kubernetes sandboxes for code changes.
 - [Sourcelair](https://ide.sourcelair.com/home) `alive` — online IDE supporting 25+ languages with Git, GitHub, and Heroku integration.
 - [Stackblitz](https://stackblitz.com/) `alive` — instant in-browser dev environments powered by WebContainers.
+- [Tale](https://tale.dev/) `alive` — open-source project workspace that runs configured coding agents in persistent sandboxes, with shared tasks and deliverable review; self-hosted or managed.
