@@ -74,6 +74,7 @@ Following providers and products are listed in alphabetical order.
 - [TinyFunction](https://www.tinyfunction.com/) `alive` — lightweight function hosting.
 - [TinyStacks](https://www.tinystacks.com/) `defunct` — domain listed for sale; project no longer operating.
 - [Upsun (formerly Platform.sh)](https://platform.sh) `alive` — highly flexible PaaS with predictable pricing and self-service resources.
+- [VibeKit](https://vibekit.bot/?ref=awesome_awesome-paas) `alive` — AI app building and hosting platform; chat with an agent (web or iOS app) that builds, deploys and maintains your app on a vibekit.bot subdomain or custom domain, with an optional managed Postgres add-on (unrelated to the superagent-ai/vibekit SDK).
 - [Zeabur](https://zeabur.com) `alive` — AI DevOps engineer; an agent that runs your infrastructure while AI writes your code.
 - [Zerops](https://zerops.io) `alive` — bare-metal developer cloud with full Linux containers, hardware-only pricing, and managed databases on project-private networking.
 - [Zimki](https://www.slideshare.net/swardley/zimki-2006) `defunct` — historical; one of the original platform-as-a-service offerings, from Canon.
