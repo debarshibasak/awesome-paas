@@ -102,6 +102,7 @@ Following providers and products are listed in alphabetical order.
 - [harvis.dev](https://harvis.dev) `alive` — static hosting in one command; uploads a folder as-is and returns a live URL in seconds with no account, config, or build step. Also deployable from the browser, an HTTP API, a GitHub Action, or an AI agent over MCP.
 - [layer0](https://www.layer0.co) `defunct` — site offline; rebranded to Edgio, which itself was later acquired and wound down.
 - [Netlify](https://www.netlify.com) `alive` — Jamstack platform for production-ready web infrastructure with AI and code workflows. (Now also home to the former Gatsby Cloud.)
+- [Shipvela](https://shipvela.com/) `alive` — hosts React, Vite and static websites from GitHub or a CLI with custom domains and managed HTTPS; free tier includes 3 projects and 20 publishes per month.
 - [Surge.sh](https://surge.sh) `alive` — static publishing for front-end developers; one-command deploys.
 - [Vercel](https://vercel.com) `alive` — frontend cloud for Next.js and other frameworks.
 
