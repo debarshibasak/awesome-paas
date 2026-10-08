@@ -127,6 +127,7 @@ Following providers and products are listed in alphabetical order.
 - [Canine](https://canine.sh/) `alive` — open source PaaS for Kubernetes; Heroku simplicity with Kubernetes power.
 - [Caprover](https://caprover.com/) `alive` — scalable, free, self-hosted PaaS.
 - [Cloud Foundry](https://www.cloudfoundry.org/) `alive` — open source platform for cloud-native application development.
+- [Cloud in a Bottle](https://cloudinabottle.org/) `alive` — deploy apps from Git repos as rootless Podman containers on a server you control, with per-app subdomains and custom TCP/UDP ports.
 - [Coolify](https://coolify.io/) `alive` — self-hosting platform; open-source alternative to Heroku for apps, databases, and 280+ services.
 - [Deckrun](https://deckrun.com/) `alive` — deploy and manage apps on Kubernetes with one config file and one command.
 - [Devtron](https://devtron.ai) `alive` — open-source software delivery workflow for Kubernetes.
