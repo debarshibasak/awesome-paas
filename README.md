@@ -62,6 +62,7 @@ Following providers and products are listed in alphabetical order.
 - [Ownkube](https://ownkube.io) `alive` — developer platform in your own AWS account on k3s or EKS; named agents (Cost, Incident, Scaling, Security) run your ops.
 - [platformOS](https://platformos.com) `alive` — fully managed PaaS with no vendor lock-in or hidden fees.
 - [Ploi](https://ploi.io) `alive` — server management and site deployment tool.
+- [podway](https://podway.io) `alive` — managed hosting for open-source apps (n8n, Uptime Kuma, Paperless-ngx and more), each in its own pod; snapshot before every upgrade with automatic rollback, and an AI admin you steer from Claude. Start free with one app, no card needed; from $4/month per app.
 - [Qovery](https://www.qovery.com/) `alive` — Enterprise Kubernetes management platform. Deploy applications, databases, Helm charts, and Terraform modules on AWS EKS, GCP GKE, Azure AKS, and Scaleway. Cost-efficient GPU scheduling for AI/ML workloads. Includes [Terraform provider](https://registry.terraform.io/providers/Qovery/qovery/latest/docs), CLI, API, [MCP Server](https://mcp.qovery.com/mcp), and [AI Agent Skill](https://github.com/Qovery/qovery-skills).
 - [Railway](https://railway.app/) `alive` — full-stack cloud for deploying web apps, servers, and databases with automatic scaling, monitoring, and security.
 - [Render](https://render.com) `alive` — cloud for builders; deploy and scale any app or agent on intuitive cloud infrastructure.
