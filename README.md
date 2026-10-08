@@ -190,6 +190,7 @@ Following providers and products are listed in alphabetical order.
 - [Encore](https://encore.dev/) `alive` — open-source TypeScript backend framework with automated infrastructure.
 - [GitHub Codespaces](https://github.com/features/codespaces) `alive` — instant cloud-powered dev environments from GitHub.
 - [intentic](https://intentic.dev/) `alive` — self-hosted agent workspace; each coding agent gets its own container and git worktree on your own hardware, driven from any browser.
+- [Keploy](https://keploy.io/) `alive` — open-source production-like sandboxes built from real API traffic for integration and E2E testing.
 - [Ona (formerly Gitpod)](https://www.gitpod.io/) `alive` — orchestrated background AI software engineers in the cloud.
 - [Okteto](https://okteto.com/) `alive` — fast, flexible Kubernetes development environments.
 - [Paizacloud](https://paiza.cloud/en/jupyter-notebook-online) `alive` — browser-based web development environment.
