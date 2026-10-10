@@ -60,7 +60,7 @@ Following providers and products are listed in alphabetical order.
 - [MoodLensAI](https://moodlensai.com) `alive` — managed hosting for apps deployed from GitHub and one-click apps like n8n and WordPress, with zero-downtime releases, free SSL and daily backups on fixed plans from $5/month.
 - [Nife](https://nife.io/) `alive` — application platform for deploying and operating workloads across public cloud, edge, Kubernetes, bare metal, and private infrastructure from one control plane.
 - [Orbit](https://orbit.runonflux.com) `alive` — deploy any Git repo to the Flux decentralized cloud; git push-to-deploy with Nixpacks framework detection, no single point of failure, no egress fees, and a free-forever tier (paid from $0.99/mo)
-- [Ownkube](https://ownkube.io) `alive` — developer platform in your own AWS account on k3s or EKS; named agents (Cost, Incident, Scaling, Security) run your ops.
+- [Ownkube](https://ownkube.io) `alive` — a cloud for personal software; deploy apps, workers, jobs, managed Postgres and Valkey from your coding agent or GitHub, each on its own HTTPS hostname, on prepaid credit from $5 that never expires.
 - [platformOS](https://platformos.com) `alive` — fully managed PaaS with no vendor lock-in or hidden fees.
 - [Ploi](https://ploi.io) `alive` — server management and site deployment tool.
 - [podway](https://podway.io) `alive` — managed hosting for open-source apps (n8n, Uptime Kuma, Paperless-ngx and more), each in its own pod; snapshot before every upgrade with automatic rollback, and an AI admin you steer from Claude. Start free with one app, no card needed; from $4/month per app.
