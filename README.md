@@ -8,7 +8,7 @@ In a scenario if you think your (favorite) service is not listed here. Please fe
 
 ### Status
 
-Each entry below is tagged `alive` (still operating) or `defunct` (project ended, domain dead, or repurposed). Verified 2026-07-29.
+Each entry below is tagged `alive` (still operating) or `defunct` (project ended, domain dead, or repurposed). Verified 2026-09-28.
 
 ### Contents
 
@@ -25,7 +25,7 @@ Following providers and products are listed in alphabetical order.
 - [Aptible](https://aptible.com) `alive` — secure, HITRUST R2 certified cloud infrastructure for digital health teams.
 - [AWS App Runner](https://aws.amazon.com/apprunner) `alive` — managed container service that deploys directly from source code or container images.
 - [AWS ECS](https://aws.amazon.com/ecs) `alive` — Amazon's fully managed container orchestration service.
-- [AZIN](https://azin.run) `alive` — auto-deploys into your own GCP, AWS, or Azure account from git push to production.
+- [AZIN](https://azin.run) `defunct` — repurposed; azin.run now redirects to boxd.sh (the same team's cloud VM product), and the git-push deploy into your own GCP, AWS, or Azure account is no longer offered.
 - [Back4app Web Deployment](https://www.back4app.com/web-deployment-platform) `alive` — deploy full-stack web apps from GitHub on managed, secure infrastructure.
 - [Clever Cloud](https://www.clever-cloud.com/) `alive` — French PaaS to host, deploy, and maintain applications at a controlled cost.
 - [Cloud 66](https://www.cloud66.com/) `alive` — DevOps platform that deploys applications to any cloud provider or your own servers.
@@ -42,7 +42,7 @@ Following providers and products are listed in alphabetical order.
 - [DormHost](https://dormhost.dev) `alive`: Heroku-style git push deploys for student and hobby projects; Node.js, Python, Go, Java, Ruby, PHP, .NET, or a Dockerfile, with MongoDB/PostgreSQL/MySQL on the same machine, 30-day free trial, sleeps when idle and wakes in ~300ms.
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc) `defunct` — historical; dotCloud became Docker, Inc.
 - [Engine Yard](https://www.engineyard.com) `alive` — managed cloud platform for Ruby on Rails and modern web apps.
-- [Flightcontrol](https://www.flightcontrol.dev?ref=awesome-paas) `alive` — PaaS that deploys directly to your own AWS account; no black box, lock-in, or AWS markups.
+- [Flightcontrol (now Ravion)](https://www.ravion.com?ref=awesome-paas) `alive` — Vercel-like PaaS that deploys directly to your own AWS account; no black box, lock-in, or AWS markups.
 - [Fly.io](https://fly.io) `alive` — global app platform that runs your code close to users.
 - [fortrabbit](https://www.fortrabbit.com) `alive` — PHP as a Service, since 2012, from Germany, two data centers, runs on AWS.
 - [France Nuage](https://france-nuage.fr) `alive` — Sovereign open-source cloud (SSPL-1.0) hosted 100% in France; managed open-source apps and S3 object storage.
@@ -87,9 +87,11 @@ Following providers and products are listed in alphabetical order.
 - [Adaptive](https://www.adaptive.live/) `alive` — access control plane for human, workload, and AI identities in hybrid environments.
 - [AgentBox](https://github.com/madarco/agentbox) `alive` — run multiple coding agents (Claude Code, Codex, OpenCode) in parallel sandboxed VMs across local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B, DigitalOcean); sub-1s checkpoints, git credentials kept on the host.
 - [Beam Cloud](https://www.beam.cloud/) `alive` — AI infrastructure for sandboxes, inference, and training with ultrafast boot times and instant autoscaling.
+- [boxd](https://boxd.sh) `alive` — composable computers for devs and agents: real hardware-isolated Linux VMs in the cloud; compose one, then spin up as many as you need.
 - [Daytona](https://www.daytona.io/) `alive` — secure infrastructure for running AI-generated code with 90ms environment creation and stateful operations.
 - [E2B](https://e2b.dev/) `alive` — secure computers/sandboxes for AI agents; used by 88% of Fortune 100 companies.
 - [Modal](https://modal.com) `alive` — serverless platform for AI and data teams.
+- [Ravion](https://www.ravion.com/) `alive` — Vercel-like experience in your own AWS account for agents and humans; manage and monitor Terraform resources, builds, and deploys in one place.
 - [Runloop](https://www.runloop.ai/) `alive` — AI agent accelerator with secure code sandboxes and evaluations for production agents.
 - [RunPod](https://www.runpod.io) `alive` — GPU cloud for AI training and inference workloads.
 
@@ -123,7 +125,7 @@ Following providers and products are listed in alphabetical order.
 #### Self-Hosted PaaS or PaaS emulated
 
 - [Akamai App Platform (formerly Otomi)](https://otomi.io/) `alive` — Kubernetes app platform; now part of Akamai.
-- [Appaloft](https://github.com/appaloft/appaloft) `alive` — open-source Railway alternative: deploy a folder to a URL with `appaloft up` (git optional) on servers you control, plus `appaloft setup agent` for Cursor/OpenCode.
+- [Appaloft](https://github.com/nichenqin/appaloft) `defunct` — project no longer active; was an open-source Railway alternative: deploy a folder to a URL with `appaloft up` (git optional) on servers you control, plus `appaloft setup agent` for Cursor/OpenCode.
 - [Argonaut](https://argonaut.dev/) `defunct` — argonaut.dev now serves WarpBuild; the original Argonaut platform is no longer operating.
 - [Azure Krustlet](https://krustlet.dev/) `defunct` — Kubernetes Kubelet in Rust for running WebAssembly modules; the README states the project is no longer actively maintained and maintainers have moved on (last commit Oct 2023).
 - [BoltOps](https://www.boltops.com/) `alive` — DevOps-as-a-service.

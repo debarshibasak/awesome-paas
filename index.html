@@ -828,7 +828,7 @@ const DATA = {
         { name: "Aptible", url: "https://aptible.com", status: "alive", description: "Secure, HITRUST R2 certified cloud infrastructure for digital health teams; deploy apps, databases, and AI on isolated AWS infrastructure." },
         { name: "AWS App Runner", url: "https://aws.amazon.com/apprunner", status: "alive", description: "Managed container service that deploys directly from source code or container images on AWS." },
         { name: "AWS ECS", url: "https://aws.amazon.com/ecs", status: "alive", description: "Amazon Elastic Container Service — fully managed container orchestration." },
-        { name: "AZIN", url: "https://azin.run", status: "alive", description: "Auto-deploys into your own GCP, AWS, or Azure account from git push to production — no DevOps required." },
+        { name: "AZIN", url: "https://azin.run", status: "defunct", description: "Repurposed: azin.run now redirects to boxd.sh, the same team's cloud VM product. The git-push deploy into your own GCP, AWS, or Azure account is no longer offered." },
         { name: "Back4app Web Deployment", url: "https://www.back4app.com/web-deployment-platform", status: "alive", description: "Deploy full-stack web apps from GitHub on managed, secure infrastructure with real-time metrics and seamless scaling." },
         { name: "Clever Cloud", url: "https://www.clever-cloud.com/", status: "alive", description: "French PaaS to host, deploy, and maintain applications in operational conditions at a controlled cost." },
         { name: "Cloud 66", url: "https://www.cloud66.com/", status: "alive", description: "DevOps platform that deploys applications to any cloud provider or your own servers — from 1 to 1000 servers, no lock-in." },
@@ -845,7 +845,7 @@ const DATA = {
         { name: "DormHost", url: "https://dormhost.dev", status: "alive", description: "Heroku-style git push deploys for student and hobby projects — Node.js, Python, Go, Java, Ruby, PHP, .NET, or a Dockerfile, with MongoDB, PostgreSQL, or MySQL on the same machine. Includes a 30-day free trial; sleeping apps wake in ~300ms." },
         { name: "dotCloud", url: "https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc", status: "defunct", description: "Historical: dotCloud, one of the original PaaS providers, became Docker, Inc." },
         { name: "Engine Yard", url: "https://www.engineyard.com", status: "alive", description: "Managed cloud platform for Ruby on Rails and modern web applications." },
-        { name: "Flightcontrol", url: "https://www.flightcontrol.dev?ref=awesome-paas", status: "alive", description: "PaaS that deploys directly to your own AWS account — no black box, lock-in, or AWS markups." },
+        { name: "Flightcontrol (now Ravion)", url: "https://www.ravion.com?ref=awesome-paas", status: "alive", description: "Vercel-like PaaS that deploys directly to your own AWS account — no black box, lock-in, or AWS markups. Rebranded from Flightcontrol to Ravion." },
         { name: "Fly.io", url: "https://fly.io", status: "alive", description: "Global app platform that runs your code close to users — fearless container deployments worldwide." },
         { name: "fortrabbit", url: "https://www.fortrabbit.com", status: "alive", description: "PHP as a Service, since 2012, from Germany — two data centers, runs on AWS." },
         { name: "France Nuage", url: "https://france-nuage.fr", status: "alive", description: "Sovereign open-source cloud (SSPL-1.0) hosted 100% in France; managed hosting of open-source apps (Grafana, Matomo, Odoo) and S3 object storage." },
@@ -892,9 +892,11 @@ const DATA = {
         { name: "Adaptive", url: "https://www.adaptive.live/", status: "alive", description: "Enterprise-grade access control plane for human, workload, and AI identities in hybrid environments." },
         { name: "AgentBox", url: "https://github.com/madarco/agentbox", github: "https://github.com/madarco/agentbox", stars: 340, status: "alive", description: "Run multiple coding agents (Claude Code, Codex, OpenCode) in parallel sandboxed VMs across local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B, DigitalOcean). Sub-1s checkpoints; git credentials stay on the host." },
         { name: "Beam Cloud", url: "https://www.beam.cloud/", status: "alive", description: "AI infrastructure for developers — sandboxes, inference, and training with ultrafast boot times and instant autoscaling." },
+        { name: "boxd", url: "https://boxd.sh", logo: "logos/boxd.svg", status: "alive", description: "Composable computers for devs and agents — real hardware-isolated Linux VMs in the cloud. Compose one, then spin up as many as you need." },
         { name: "Daytona", url: "https://www.daytona.io/", github: "https://github.com/daytonaio/daytona", stars: 72024, status: "alive", description: "Secure infrastructure for running AI-generated code with 90ms environment creation, stateful operations, and enterprise-grade security." },
         { name: "E2B", url: "https://e2b.dev/", github: "https://github.com/e2b-dev/e2b", stars: 13342, status: "alive", description: "Secure computers/sandboxes for AI agents with real-world tools — used by 88% of Fortune 100 companies for agentic workflows." },
         { name: "Modal", url: "https://modal.com", status: "alive", description: "Serverless platform for AI and data teams — bring your own code to run CPU, GPU, and data-intensive compute at scale." },
+        { name: "Ravion", url: "https://www.ravion.com/", status: "alive", description: "The easiest way to use AWS for agents and humans — a Vercel-like experience in your own AWS account. Manage and monitor Terraform resources, builds, and deploys in one place." },
         { name: "Runloop", url: "https://www.runloop.ai/", status: "alive", description: "AI agent accelerator — launch agents on secure code sandboxes, refine with evaluations, productionize on enterprise infrastructure." },
         { name: "RunPod", url: "https://www.runpod.io", status: "alive", description: "GPU cloud for AI training and inference workloads." },
       ]
@@ -945,7 +947,7 @@ const DATA = {
       accent: "azure",
       items: [
         { name: "Akamai App Platform (formerly Otomi)", url: "https://otomi.io/", status: "alive", description: "Kubernetes app platform; now part of Akamai." },
-        { name: "Appaloft", url: "https://github.com/appaloft/appaloft", github: "https://github.com/appaloft/appaloft", status: "alive", description: "Open-source Railway alternative — deploy a folder to a URL with `appaloft up` (git optional) on servers you control, plus `appaloft setup agent` for Cursor and OpenCode." },
+        { name: "Appaloft", url: "https://github.com/nichenqin/appaloft", github: "https://github.com/nichenqin/appaloft", status: "defunct", description: "Project no longer active. Was an open-source Railway alternative — deploy a folder to a URL with `appaloft up` (git optional) on servers you control, plus `appaloft setup agent` for Cursor and OpenCode." },
         { name: "Argonaut", url: "https://argonaut.dev/", status: "defunct", description: "argonaut.dev now serves WarpBuild; the original Argonaut platform is no longer operating." },
         { name: "Azure Krustlet", url: "https://krustlet.dev/", github: "https://github.com/krustlet/krustlet", stars: 3604, status: "defunct", description: "Kubernetes Kubelet in Rust for running WebAssembly modules. No longer actively maintained per its own README; maintainers moved on to other WebAssembly projects (last commit Oct 2023)." },
         { name: "BoltOps", url: "https://www.boltops.com/", status: "alive", description: "DevOps-as-a-service — builds and deploys customizable, scalable, secure infrastructure so you can focus on your product." },
@@ -1048,6 +1050,10 @@ function favicon(url) {
   const d = domainOf(url);
   return d ? `https://www.google.com/s2/favicons?domain=${d}&sz=64` : '';
 }
+// Prefer a vendored logo (item.logo) over the Google favicon service.
+function logoOf(item) {
+  return (item && item.logo) || favicon(item && item.url);
+}
 function initials(name) {
   return name.replace(/[^A-Za-z0-9 ]/g, '').split(/\s+/).map(s => s[0]).filter(Boolean).slice(0, 2).join('').toUpperCase() || '?';
 }
@@ -1119,7 +1125,7 @@ function render() {
       const status = item.status || 'alive';
       if (status === 'alive') alive++; else if (status === 'defunct') defunct++;
       const d = domainOf(item.url);
-      const fi = favicon(item.url);
+      const fi = logoOf(item);
       const ini = initials(item.name);
       const st = formatStars(item.stars);
       tiles += `
@@ -1328,7 +1334,7 @@ function openModal(item, cat) {
   }
   const a = accentClass[cat.accent];
   const d = domainOf(item.url);
-  const fi = favicon(item.url);
+  const fi = logoOf(item);
   const ini = initials(item.name);
   const gh = inferGithub(item);
   const status = item.status || 'alive';
@@ -1479,7 +1485,7 @@ function rankItems(q) {
 }
 
 function paletteItemHTML(it, idx, q) {
-  const fi = favicon(it.url);
+  const fi = logoOf(it.item);
   const ini = initials(it.name);
   return `<div class="palette-item" role="option" data-idx="${idx}" data-active="${idx === paletteActiveIdx}">
     <div class="palette-favicon">
