@@ -28,6 +28,7 @@ Following providers and products are listed in alphabetical order.
 - [AZIN](https://azin.run) `defunct` — repurposed; azin.run now redirects to boxd.sh (the same team's cloud VM product), and the git-push deploy into your own GCP, AWS, or Azure account is no longer offered.
 - [Back4app Web Deployment](https://www.back4app.com/web-deployment-platform) `alive` — deploy full-stack web apps from GitHub on managed, secure infrastructure.
 - [Clever Cloud](https://www.clever-cloud.com/) `alive` — French PaaS to host, deploy, and maintain applications at a controlled cost.
+- [Cloady](https://cloady.com) `alive` — cloud application platform for deploying apps and databases from GitHub, Docker images, or uploaded projects, with automatic HTTPS and capacity-based pricing; free tier available.
 - [Cloud 66](https://www.cloud66.com/) `alive` — DevOps platform that deploys applications to any cloud provider or your own servers.
 - [Cloudways](https://www.cloudways.com) `alive` — managed cloud hosting across major cloud providers.
 - [Coherence](https://www.withcoherence.com/?ref=awesome-paas) `defunct` — site offline; product was a PaaS in your own AWS or GCP account.
