@@ -73,6 +73,7 @@ Following providers and products are listed in alphabetical order.
 - [SnapDeploy](https://snapdeploy.dev) `alive` — Docker container hosting on AWS. Deploy for free, pay only when you need always on.
 - [sota.io](https://sota.io) `alive` — EU-native managed PaaS on Hetzner Germany infrastructure, git-push deploy for any language, managed PostgreSQL 17 included, no US parent/CLOUD Act exposure, from EUR 9/month.
 - [Supabase.io](https://github.com/supabase/supabase) `alive` — open-source Postgres development platform for web, mobile, and AI applications.
+- [The Vibe Hosting](https://thevibehosting.com) `alive` — free hosting for coding agents: one HTTP call gives the agent a root Linux server (gVisor sandbox) on an HTTPS subdomain or your own domain; no signup or card, sleeps when idle and wakes on the next request, monthly free credit then pay-as-you-go.
 - [TinyFunction](https://www.tinyfunction.com/) `alive` — lightweight function hosting.
 - [TinyStacks](https://www.tinystacks.com/) `defunct` — domain listed for sale; project no longer operating.
 - [Upsun (formerly Platform.sh)](https://platform.sh) `alive` — highly flexible PaaS with predictable pricing and self-service resources.
