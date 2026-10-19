@@ -152,6 +152,7 @@ Following providers and products are listed in alphabetical order.
 - [Flynn](https://github.com/flynn/flynn) `defunct` — next-generation open source PaaS; project unmaintained.
 - [Hatchbox](https://www.hatchbox.io) `alive` — cost-effective hosting for Rails, Ruby, and Node.js on your own infrastructure.
 - [Hephy](https://web.teamhephy.com/) `defunct` — site offline; community-maintained successor to Deis is no longer reachable.
+- [Hosbah](https://hosbah.com) `alive` — open-source (AGPL-3.0) server management and app hosting: bring your own servers or Proxmox, git deploys with zero downtime, databases, backups and tunnels.
 - [Humanitec](https://humanitec.com/) `alive` — Internal Developer Platform for the enterprise.
 - [Jokku](https://jokku.dev) `alive` — self-hosted PaaS with Dokku's commands and git push deploys; runs each app instance in a Firecracker microVM, across a cluster.
 - [JustDeploy](https://github.com/cchalop1/JustDeploy) `alive` — PaaS tool designed to simplify the lives of developers, deploy applications to own servers in just one click.
