@@ -28,6 +28,7 @@ Following providers and products are listed in alphabetical order.
 - [AZIN](https://azin.run) `defunct` — repurposed; azin.run now redirects to boxd.sh (the same team's cloud VM product), and the git-push deploy into your own GCP, AWS, or Azure account is no longer offered.
 - [Back4app Web Deployment](https://www.back4app.com/web-deployment-platform) `alive` — deploy full-stack web apps from GitHub on managed, secure infrastructure.
 - [Clever Cloud](https://www.clever-cloud.com/) `alive` — French PaaS to host, deploy, and maintain applications at a controlled cost.
+- [Cloady](https://cloady.com) `alive` — cloud application platform for deploying apps and databases from GitHub, Docker images, or uploaded projects, with automatic HTTPS and capacity-based pricing; free tier available.
 - [Cloud 66](https://www.cloud66.com/) `alive` — DevOps platform that deploys applications to any cloud provider or your own servers.
 - [Cloudways](https://www.cloudways.com) `alive` — managed cloud hosting across major cloud providers.
 - [Coherence](https://www.withcoherence.com/?ref=awesome-paas) `defunct` — site offline; product was a PaaS in your own AWS or GCP account.
@@ -42,6 +43,7 @@ Following providers and products are listed in alphabetical order.
 - [DormHost](https://dormhost.dev) `alive`: Heroku-style git push deploys for student and hobby projects; Node.js, Python, Go, Java, Ruby, PHP, .NET, or a Dockerfile, with MongoDB/PostgreSQL/MySQL on the same machine, 30-day free trial, sleeps when idle and wakes in ~300ms.
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc) `defunct` — historical; dotCloud became Docker, Inc.
 - [Engine Yard](https://www.engineyard.com) `alive` — managed cloud platform for Ruby on Rails and modern web apps.
+- [Eurobase Cloud](https://eurobase.dev/) `alive` — European PaaS: deploy web apps from GitHub, yourself or with your coding agent.
 - [Flightcontrol (now Ravion)](https://www.ravion.com?ref=awesome-paas) `alive` — Vercel-like PaaS that deploys directly to your own AWS account; no black box, lock-in, or AWS markups.
 - [Fly.io](https://fly.io) `alive` — global app platform that runs your code close to users.
 - [fortrabbit](https://www.fortrabbit.com) `alive` — PHP as a Service, since 2012, from Germany, two data centers, runs on AWS.
@@ -61,6 +63,7 @@ Following providers and products are listed in alphabetical order.
 - [Nife](https://nife.io/) `alive` — application platform for deploying and operating workloads across public cloud, edge, Kubernetes, bare metal, and private infrastructure from one control plane.
 - [Orbit](https://orbit.runonflux.com) `alive` — deploy any Git repo to the Flux decentralized cloud; git push-to-deploy with Nixpacks framework detection, no single point of failure, no egress fees, and a free-forever tier (paid from $0.99/mo)
 - [Ownkube](https://ownkube.io) `alive` — a cloud for personal software; deploy apps, workers, jobs, managed Postgres and Valkey from your coding agent or GitHub, each on its own HTTPS hostname, on prepaid credit from $5 that never expires.
+- [Pethost](https://pethost.dev/) `alive` — a small cloud for personal projects: runs Docker Compose projects as written, with GitHub deploys, nightly backups and rollbacks, managed from a CLI, a web panel or your coding agent over MCP. From €9.99/month, no fee per project.
 - [PikaPods](https://www.pikapods.com) `alive` — managed hosting for open-source apps (Immich, n8n and many more) with no server setup; prepaid credit billed by the hour, 20% revenue share with app authors where possible. From $1.80/month, with $5 welcome credit.
 - [platformOS](https://platformos.com) `alive` — fully managed PaaS with no vendor lock-in or hidden fees.
 - [Ploi](https://ploi.io) `alive` — server management and site deployment tool.
@@ -73,7 +76,9 @@ Following providers and products are listed in alphabetical order.
 - [Sliplane.io](https://sliplane.io) `alive` — fully managed Container as a Service platform that simplifies Docker hosting.
 - [SnapDeploy](https://snapdeploy.dev) `alive` — Docker container hosting on AWS. Deploy for free, pay only when you need always on.
 - [sota.io](https://sota.io) `alive` — EU-native managed PaaS on Hetzner Germany infrastructure, git-push deploy for any language, managed PostgreSQL 17 included, no US parent/CLOUD Act exposure, from EUR 9/month.
+- [Staxa](https://staxa.dev) `alive` — multi-tenant app hosting for small businesses; each customer gets their own app, database, subdomain and SSL in an isolated Kubernetes namespace, provisioned from a dashboard or an API.
 - [Supabase.io](https://github.com/supabase/supabase) `alive` — open-source Postgres development platform for web, mobile, and AI applications.
+- [The Vibe Hosting](https://thevibehosting.com) `alive` — free hosting for coding agents: one HTTP call gives the agent a root Linux server (gVisor sandbox) on an HTTPS subdomain or your own domain; no signup or card, sleeps when idle and wakes on the next request, monthly free credit then pay-as-you-go.
 - [TinyFunction](https://www.tinyfunction.com/) `alive` — lightweight function hosting.
 - [TinyStacks](https://www.tinystacks.com/) `defunct` — domain listed for sale; project no longer operating.
 - [Upsun (formerly Platform.sh)](https://platform.sh) `alive` — highly flexible PaaS with predictable pricing and self-service resources.
@@ -149,6 +154,7 @@ Following providers and products are listed in alphabetical order.
 - [Hatchbox](https://www.hatchbox.io) `alive` — cost-effective hosting for Rails, Ruby, and Node.js on your own infrastructure.
 - [Hephy](https://web.teamhephy.com/) `defunct` — site offline; community-maintained successor to Deis is no longer reachable.
 - [Humanitec](https://humanitec.com/) `alive` — Internal Developer Platform for the enterprise.
+- [Jokku](https://jokku.dev) `alive` — self-hosted PaaS with Dokku's commands and git push deploys; runs each app instance in a Firecracker microVM, across a cluster.
 - [JustDeploy](https://github.com/cchalop1/JustDeploy) `alive` — PaaS tool designed to simplify the lives of developers, deploy applications to own servers in just one click.
 - [Kamal](https://kamal-deploy.org) `alive` — deploy web apps anywhere from bare metal to cloud VMs (by 37signals).
 - [Knative](https://knative.dev/docs/) `alive` — Kubernetes-based platform for serverless workloads.
