@@ -153,6 +153,7 @@ Following providers and products are listed in alphabetical order.
 - [Hatchbox](https://www.hatchbox.io) `alive` — cost-effective hosting for Rails, Ruby, and Node.js on your own infrastructure.
 - [Hephy](https://web.teamhephy.com/) `defunct` — site offline; community-maintained successor to Deis is no longer reachable.
 - [Humanitec](https://humanitec.com/) `alive` — Internal Developer Platform for the enterprise.
+- [Jokku](https://jokku.dev) `alive` — self-hosted PaaS with Dokku's commands and git push deploys; runs each app instance in a Firecracker microVM, across a cluster.
 - [JustDeploy](https://github.com/cchalop1/JustDeploy) `alive` — PaaS tool designed to simplify the lives of developers, deploy applications to own servers in just one click.
 - [Kamal](https://kamal-deploy.org) `alive` — deploy web apps anywhere from bare metal to cloud VMs (by 37signals).
 - [Knative](https://knative.dev/docs/) `alive` — Kubernetes-based platform for serverless workloads.
