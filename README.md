@@ -56,6 +56,7 @@ Following providers and products are listed in alphabetical order.
 - [IBM Cloud Code Engine](https://cloud.ibm.com/codeengine) `alive` — fully managed serverless platform on IBM Cloud.
 - [InstaPods](https://instapods.com) `alive` — one-command deploys for AI-built apps; $3/mo after 7-day free trial.
 - [Koyeb](https://www.koyeb.com) `alive` — high-performance infrastructure for APIs, inference, and databases across CPUs, GPUs, and accelerators.
+- [lavela](https://lavela.dev) `alive` — deploy service for AI agents (beta): ship a GitHub repo to a live server from chat through a remote MCP server or the web console, with managed Postgres, cron, a custom domain you already own, and prepaid usage with no subscription.
 - [Linode (Akamai Cloud)](https://www.linode.com) `alive` — Akamai's developer cloud with managed Kubernetes, databases, and compute.
 - [MicroCloud](https://canonical.com/microcloud) `alive` — Canonical's lightweight, automated open source cloud platform.
 - [Mogenius](https://mogenius.com) `alive` — cloud-native development platform built on Kubernetes.
