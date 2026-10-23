@@ -106,6 +106,7 @@ Following providers and products are listed in alphabetical order.
 
 - [AWS Amplify](https://aws.amazon.com/amplify) `alive` — full-stack web and mobile app development platform on AWS.
 - [Cloudflare Pages](https://pages.cloudflare.com/) `alive` — Jamstack hosting on Cloudflare's global edge network.
+- [deed.page](https://deed.page) `alive` — static hosting for AI agents; publishes an HTML file or static folder to a permanent public URL with one curl request and no account, over a REST API or remote MCP server, and updates the same URL in place with an owner token.
 - [Firebase Hosting](https://firebase.google.com/products/hosting) `alive` — Google's fast, secure web app hosting.
 - [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud/) `defunct` — sunset; the page now serves Netlify's acquisition announcement.
 - [Github Pages](https://pages.github.com/) `alive` — static site hosting directly from your GitHub repository.
