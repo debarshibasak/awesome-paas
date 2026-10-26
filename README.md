@@ -82,6 +82,7 @@ Following providers and products are listed in alphabetical order.
 - [The Vibe Hosting](https://thevibehosting.com) `alive` — free hosting for coding agents: one HTTP call gives the agent a root Linux server (gVisor sandbox) on an HTTPS subdomain or your own domain; no signup or card, sleeps when idle and wakes on the next request, monthly free credit then pay-as-you-go.
 - [TinyFunction](https://www.tinyfunction.com/) `alive` — lightweight function hosting.
 - [TinyStacks](https://www.tinystacks.com/) `defunct` — domain listed for sale; project no longer operating.
+- [Uppcoder](https://portal.uppcoder.com) `alive` — app hosting with VS Code in the browser and a terminal in the app's own container, PostgreSQL alongside, automatic HTTPS; free plan with one app and one database, no card.
 - [Upsun (formerly Platform.sh)](https://platform.sh) `alive` — highly flexible PaaS with predictable pricing and self-service resources.
 - [xhostd](https://xhostd.com) `alive` — Agent-first cloud platform for deploying and running apps built with AI coding agents. Managed PostgreSQL, authentication, isolated environments, backups, and rollback.
 - [VibeKit](https://vibekit.bot/?ref=awesome_awesome-paas) `alive` — AI app building and hosting platform; chat with an agent (web or iOS app) that builds, deploys and maintains your app on a vibekit.bot subdomain or custom domain, with an optional managed Postgres add-on (unrelated to the superagent-ai/vibekit SDK).
