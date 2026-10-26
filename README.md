@@ -53,6 +53,7 @@ Following providers and products are listed in alphabetical order.
 - [Google Cloud Run](https://cloud.google.com/run) `alive` — fully managed platform for containerized apps in any language.
 - [Granite](https://granite.so) `alive` — deploy apps, managed databases, and S3-compatible storage from source or Docker images; built-in container registry and unlimited team seats on every plan; formerly NoVPS, from $9/mo.
 - [Heroku](https://www.heroku.com) `alive` — original cloud application platform, acquired by Salesforce.
+- [Hostim.dev](https://hostim.dev/) `alive` — EU container hosting on Kubernetes in Germany: deploy Docker images, Compose files or Git repos, with managed Postgres, MySQL, Redis and volumes, HTTPS and logs. Flat prices from €2.50/month per app; each project gets free small databases and a 1 GB volume; 5-day trial, no card needed.
 - [IBM Cloud Code Engine](https://cloud.ibm.com/codeengine) `alive` — fully managed serverless platform on IBM Cloud.
 - [InstaPods](https://instapods.com) `alive` — one-command deploys for AI-built apps; $3/mo after 7-day free trial.
 - [Koyeb](https://www.koyeb.com) `alive` — high-performance infrastructure for APIs, inference, and databases across CPUs, GPUs, and accelerators.
