@@ -99,6 +99,7 @@ Following providers and products are listed in alphabetical order.
 - [AgentBox](https://github.com/madarco/agentbox) `alive` — run multiple coding agents (Claude Code, Codex, OpenCode) in parallel sandboxed VMs across local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B, DigitalOcean); sub-1s checkpoints, git credentials kept on the host.
 - [Beam Cloud](https://www.beam.cloud/) `alive` — AI infrastructure for sandboxes, inference, and training with ultrafast boot times and instant autoscaling.
 - [boxd](https://boxd.sh) `alive` — composable computers for devs and agents: real hardware-isolated Linux VMs in the cloud; compose one, then spin up as many as you need.
+- [Buddy.Works](https://buddy.works) `alive` — sandbox VMs for AI coding agents with app hosting, git repositories, and CI/CD workflows; accessible via REST API, MCP server, and the bdy CLI.
 - [Daytona](https://www.daytona.io/) `alive` — secure infrastructure for running AI-generated code with 90ms environment creation and stateful operations.
 - [E2B](https://e2b.dev/) `alive` — secure computers/sandboxes for AI agents; used by 88% of Fortune 100 companies.
 - [Modal](https://modal.com) `alive` — serverless platform for AI and data teams.
