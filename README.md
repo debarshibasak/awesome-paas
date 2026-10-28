@@ -211,6 +211,7 @@ Following providers and products are listed in alphabetical order.
 - [GitHub Codespaces](https://github.com/features/codespaces) `alive` — instant cloud-powered dev environments from GitHub.
 - [intentic](https://intentic.dev/) `alive` — self-hosted agent workspace; each coding agent gets its own container and git worktree on your own hardware, driven from any browser.
 - [Keploy](https://keploy.io/) `alive` — open-source production-like sandboxes built from real API traffic for integration and E2E testing.
+- [Layerbase Workspaces](https://layerbase.com/workspaces) `alive` — private cloud Linux machine for coding agents with browser terminal, file explorer, SSH and GitHub; resume sessions from your phone, from $10/month.
 - [Ona (formerly Gitpod)](https://www.gitpod.io/) `alive` — orchestrated background AI software engineers in the cloud.
 - [Okteto](https://okteto.com/) `alive` — fast, flexible Kubernetes development environments.
 - [Paizacloud](https://paiza.cloud/en/jupyter-notebook-online) `alive` — browser-based web development environment.
