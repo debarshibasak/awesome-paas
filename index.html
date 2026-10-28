@@ -655,7 +655,7 @@
         <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.1.79-.25.79-.55 0-.27-.01-1-.02-1.96-3.2.7-3.87-1.54-3.87-1.54-.52-1.32-1.27-1.67-1.27-1.67-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.18 1.76 1.18 1.02 1.75 2.69 1.25 3.34.95.1-.74.4-1.25.72-1.54-2.55-.29-5.24-1.27-5.24-5.66 0-1.25.45-2.27 1.18-3.07-.12-.29-.51-1.46.11-3.04 0 0 .96-.31 3.16 1.17.92-.26 1.9-.39 2.88-.39.98 0 1.96.13 2.88.39 2.2-1.48 3.16-1.17 3.16-1.17.62 1.58.23 2.75.11 3.04.74.8 1.18 1.82 1.18 3.07 0 4.4-2.69 5.37-5.25 5.65.41.36.78 1.06.78 2.13 0 1.54-.01 2.78-.01 3.16 0 .31.21.66.8.55C20.21 21.39 23.5 17.08 23.5 12 23.5 5.65 18.35.5 12 .5z"/></svg>
         <span>Star</span>
       </span>
-      <span class="inline-flex items-center px-2.5 py-1.5 border-l border-ink-900 font-mono mono-tight nums text-[12px] bg-paper2">618</span>
+      <span class="inline-flex items-center px-2.5 py-1.5 border-l border-ink-900 font-mono mono-tight nums text-[12px] bg-paper2">623</span>
     </a>
   </div>
 </header>
@@ -670,7 +670,7 @@
         <span class="font-mono mono-tight text-[10.5px] nums text-ink-500"><span id="stat-total">—</span> platforms · <span id="stat-cats">—</span> categories</span>
       </div>
       <h1 class="font-serif font-normal tracking-tightest text-[clamp(34px,5vw,68px)] leading-[1.02] text-ink-900 max-w-[20ch]">
-        The platforms <span class="serif-italic">that ship</span> your code, <span class="text-ink-500">mapped on one page.</span>
+        Find the <span class="serif-italic">right home</span> <span class="inline-block text-ink-500">for your code.</span>
       </h1>
     </div>
     <div class="lg:col-span-3">
@@ -846,6 +846,7 @@ const DATA = {
         { name: "DormHost", url: "https://dormhost.dev", status: "alive", description: "Heroku-style git push deploys for student and hobby projects — Node.js, Python, Go, Java, Ruby, PHP, .NET, or a Dockerfile, with MongoDB, PostgreSQL, or MySQL on the same machine. Includes a 30-day free trial; sleeping apps wake in ~300ms." },
         { name: "dotCloud", url: "https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc", status: "defunct", description: "Historical: dotCloud, one of the original PaaS providers, became Docker, Inc." },
         { name: "Engine Yard", url: "https://www.engineyard.com", status: "alive", description: "Managed cloud platform for Ruby on Rails and modern web applications." },
+        { name: "Eurobase Cloud", url: "https://eurobase.dev/", status: "alive", description: "European PaaS: deploy web apps from GitHub, yourself or with your coding agent." },
         { name: "Flightcontrol (now Ravion)", url: "https://www.ravion.com?ref=awesome-paas", status: "alive", description: "Vercel-like PaaS that deploys directly to your own AWS account — no black box, lock-in, or AWS markups. Rebranded from Flightcontrol to Ravion." },
         { name: "Fly.io", url: "https://fly.io", status: "alive", description: "Global app platform that runs your code close to users — fearless container deployments worldwide." },
         { name: "fortrabbit", url: "https://www.fortrabbit.com", status: "alive", description: "PHP as a Service, since 2012, from Germany — two data centers, runs on AWS." },
@@ -855,19 +856,25 @@ const DATA = {
         { name: "Google Cloud Run", url: "https://cloud.google.com/run", status: "alive", description: "Build and deploy scalable containerized apps written in any language on a fully managed platform." },
         { name: "Granite", url: "https://granite.so", status: "alive", description: "Deploy apps, managed databases (PostgreSQL, MySQL, MongoDB, Valkey), and S3-compatible storage from source or Docker images — with a built-in private container registry and unlimited team seats on every plan. Formerly NoVPS; from $9/mo." },
         { name: "Heroku", url: "https://www.heroku.com", status: "alive", description: "Original cloud application platform — build, deploy, manage, and scale apps. Acquired by Salesforce." },
+        { name: "Hostim.dev", url: "https://hostim.dev/", status: "alive", description: "EU container hosting on Kubernetes in Germany: deploy Docker images, Compose files or Git repos, with managed Postgres, MySQL, Redis and volumes, HTTPS and logs. Flat prices from €2.50/month per app; each project gets free small databases and a 1 GB volume; 5-day trial, no card needed." },
         { name: "IBM Cloud Code Engine", url: "https://cloud.ibm.com/codeengine", status: "alive", description: "Fully managed serverless platform on IBM Cloud for containers, jobs, and functions." },
         { name: "InstaPods", url: "https://instapods.com", status: "alive", description: "One-command deploys for AI-built apps (Cursor, Claude Code, Lovable, Bolt). $3/mo after 7-day free trial." },
         { name: "Koyeb", url: "https://www.koyeb.com", status: "alive", description: "High-performance infrastructure for APIs, inference, and databases across CPUs, GPUs, and accelerators in 50+ locations." },
+        { name: "lavela", url: "https://lavela.dev", status: "alive", description: "Deploy service for AI agents (beta): ship a GitHub repo to a live server from chat through a remote MCP server or the web console, with managed Postgres, cron, a custom domain you already own, and prepaid usage with no subscription." },
+        { name: "Light Cloud", url: "https://light-cloud.com", status: "alive", description: "Deploy static sites, containers and APIs from Git, the CLI or a coding agent (MCP server), with managed Postgres and MySQL; free plan with $1 of usage a month and no card." },
         { name: "Linode (Akamai Cloud)", url: "https://www.linode.com", status: "alive", description: "Akamai's developer cloud with managed Kubernetes, databases, and compute." },
         { name: "MicroCloud", url: "https://canonical.com/microcloud", status: "alive", description: "Canonical's lightweight, automated, and trusted open source cloud platform." },
         { name: "Mogenius", url: "https://mogenius.com", status: "alive", description: "Cloud-native development platform built on Kubernetes." },
         { name: "MoodLensAI", url: "https://moodlensai.com", status: "alive", description: "Managed hosting for apps deployed from GitHub and one-click apps like n8n and WordPress, with zero-downtime releases, free SSL, and daily backups on fixed plans from $5/month." },
         { name: "Nife", url: "https://nife.io/", status: "alive", description: "Application platform for deploying and operating workloads across public cloud, edge, Kubernetes, bare metal, and private infrastructure from one control plane." },
         { name: "Orbit", url: "https://orbit.runonflux.com", status: "alive", description: "Deploy any Git repo to the Flux decentralized cloud — git push-to-deploy with Nixpacks framework detection, no single point of failure, no egress fees. Free-forever tier; paid from $0.99/mo." },
-        { name: "Ownkube", url: "https://ownkube.io", status: "alive", description: "Developer platform in your own AWS account on k3s or EKS. Named agents (Cost, Incident, Scaling, Security) run your ops. Free for single-node k3s." },
+        { name: "Ownkube", url: "https://ownkube.io", status: "alive", description: "A cloud for personal software; deploy apps, workers, jobs, managed Postgres and Valkey from your coding agent or GitHub, each on its own HTTPS hostname, on prepaid credit from $5 that never expires." },
+        { name: "Pethost", url: "https://pethost.dev/", status: "alive", description: "A small cloud for personal projects: runs Docker Compose projects as written, with GitHub deploys, nightly backups and rollbacks, managed from a CLI, a web panel or your coding agent over MCP. From €9.99/month, no fee per project." },
+        { name: "PikaPods", url: "https://www.pikapods.com", status: "alive", description: "Managed hosting for open-source apps (Immich, n8n and many more) with no server setup; prepaid credit billed by the hour, 20% revenue share with app authors where possible. From $1.80/month, with $5 welcome credit." },
         { name: "platformOS", url: "https://platformos.com", status: "alive", description: "Build secure, scalable applications fast — fully managed PaaS without vendor lock-in or hidden fees." },
         { name: "Ploi", url: "https://ploi.io", status: "alive", description: "Server management and easy site deployment tool — focus on your application, not infrastructure." },
         { name: "podway", url: "https://podway.io", status: "alive", description: "Managed hosting for open-source apps (n8n, Uptime Kuma, Paperless-ngx, and more), each in its own pod; snapshot before every upgrade with automatic rollback and an AI admin you steer from Claude. Free for one app; from $4/month per app." },
+        { name: "Prisma", url: "https://www.prisma.io/", status: "alive", description: "Developer platform for TypeScript apps with managed Postgres, app hosting that scales to zero, and an ORM." },
         { name: "Qovery", url: "https://www.qovery.com/", status: "alive", description: "Enterprise Kubernetes management platform. Deploy apps, databases, Helm charts, and Terraform on EKS, GKE, AKS, and Scaleway. Includes Terraform provider, CLI, MCP server, and AI Agent Skill." },
         { name: "Railway", url: "https://railway.app/", status: "alive", description: "Full-stack intelligent cloud for deploying web apps, servers, and databases with automatic scaling, monitoring, and security." },
         { name: "Render", url: "https://render.com", status: "alive", description: "Cloud for builders — deploy and scale any app or agent on intuitive cloud infrastructure for the modern web." },
@@ -876,9 +883,12 @@ const DATA = {
         { name: "Sliplane.io", url: "https://sliplane.io", status: "alive", description: "Fully managed Container as a Service platform that simplifies Docker hosting." },
         { name: "SnapDeploy", url: "https://snapdeploy.dev", status: "alive", description: "Docker container hosting on AWS. Deploy free, pay only when always on. 10 deploys/day with no credit card; always-on from $12/month." },
         { name: "sota.io", url: "https://sota.io", status: "alive", description: "EU-native managed PaaS on Hetzner Germany infrastructure — git-push deploy for any language, managed PostgreSQL 17 included, no US parent or CLOUD Act exposure. From €9/month." },
+        { name: "Staxa", url: "https://staxa.dev", status: "alive", description: "Multi-tenant app hosting for small businesses; each customer gets their own app, database, subdomain and SSL in an isolated Kubernetes namespace, provisioned from a dashboard or an API." },
         { name: "Supabase", url: "https://supabase.com", github: "https://github.com/supabase/supabase", stars: 107798, status: "alive", description: "Open-source Postgres development platform — dedicated Postgres database for web, mobile, and AI applications." },
+        { name: "The Vibe Hosting", url: "https://thevibehosting.com", status: "alive", description: "Free hosting for coding agents: one HTTP call gives the agent a root Linux server (gVisor sandbox) on an HTTPS subdomain or your own domain; no signup or card, sleeps when idle and wakes on the next request, monthly free credit then pay-as-you-go." },
         { name: "TinyFunction", url: "https://www.tinyfunction.com/", status: "alive", description: "Lightweight function hosting." },
         { name: "TinyStacks", url: "https://www.tinystacks.com/", status: "defunct", description: "Domain listed for sale; project no longer operating." },
+        { name: "Uppcoder", url: "https://portal.uppcoder.com", status: "alive", description: "App hosting with VS Code in the browser and a terminal in the app's own container, PostgreSQL alongside, automatic HTTPS; free plan with one app and one database, no card." },
         { name: "Upsun (formerly Platform.sh)", url: "https://platform.sh", status: "alive", description: "Highly flexible PaaS with predictable pricing — customize resources, runtimes, environments. Self-service developer flexibility." },
         { name: "VibeKit", url: "https://vibekit.bot/?ref=awesome_awesome-paas", status: "alive", description: "AI app building and hosting platform — chat with an agent (web or iOS) that builds, deploys, and maintains your app on a vibekit.bot subdomain or custom domain, with an optional managed Postgres add-on." },
         { name: "xhostd", url: "https://xhostd.com", status: "alive", description: "Agent-first cloud platform for deploying and running apps built with AI coding agents — managed PostgreSQL, authentication, isolated environments, backups, and rollback." },
@@ -898,12 +908,14 @@ const DATA = {
         { name: "AgentBox", url: "https://github.com/madarco/agentbox", github: "https://github.com/madarco/agentbox", stars: 340, status: "alive", description: "Run multiple coding agents (Claude Code, Codex, OpenCode) in parallel sandboxed VMs across local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B, DigitalOcean). Sub-1s checkpoints; git credentials stay on the host." },
         { name: "Beam Cloud", url: "https://www.beam.cloud/", status: "alive", description: "AI infrastructure for developers — sandboxes, inference, and training with ultrafast boot times and instant autoscaling." },
         { name: "boxd", url: "https://boxd.sh", logo: "logos/boxd.svg", status: "alive", description: "Composable computers for devs and agents — real hardware-isolated Linux VMs in the cloud. Compose one, then spin up as many as you need." },
+        { name: "Buddy.Works", url: "https://buddy.works", status: "alive", description: "Sandbox VMs for AI coding agents with app hosting, git repositories, and CI/CD workflows; accessible via REST API, MCP server, and the bdy CLI." },
         { name: "Daytona", url: "https://www.daytona.io/", github: "https://github.com/daytonaio/daytona", stars: 72024, status: "alive", description: "Secure infrastructure for running AI-generated code with 90ms environment creation, stateful operations, and enterprise-grade security." },
         { name: "E2B", url: "https://e2b.dev/", github: "https://github.com/e2b-dev/e2b", stars: 13342, status: "alive", description: "Secure computers/sandboxes for AI agents with real-world tools — used by 88% of Fortune 100 companies for agentic workflows." },
         { name: "Modal", url: "https://modal.com", status: "alive", description: "Serverless platform for AI and data teams — bring your own code to run CPU, GPU, and data-intensive compute at scale." },
         { name: "Ravion", url: "https://www.ravion.com/", status: "alive", description: "The easiest way to use AWS for agents and humans — a Vercel-like experience in your own AWS account. Manage and monitor Terraform resources, builds, and deploys in one place." },
         { name: "Runloop", url: "https://www.runloop.ai/", status: "alive", description: "AI agent accelerator — launch agents on secure code sandboxes, refine with evaluations, productionize on enterprise infrastructure." },
         { name: "RunPod", url: "https://www.runpod.io", status: "alive", description: "GPU cloud for AI training and inference workloads." },
+        { name: "Runtime Cloud", url: "https://withruntime.com", status: "alive", description: "Firecracker microVM sandboxes for AI agents, billed on active CPU ($0.025 per vCPU-hour) with no plan fee; pause and wake with memory kept, and E2B/Daytona SDK-compatible." },
       ]
     },
     {
@@ -915,6 +927,7 @@ const DATA = {
       items: [
         { name: "AWS Amplify", url: "https://aws.amazon.com/amplify", status: "alive", description: "Accelerate full-stack web and mobile app development on AWS — easy to start, easy to scale." },
         { name: "Cloudflare Pages", url: "https://pages.cloudflare.com/", status: "alive", description: "Build and deploy your next application on Cloudflare's global edge network." },
+        { name: "deed.page", url: "https://deed.page", status: "alive", description: "Static hosting for AI agents; publishes an HTML file or static folder to a permanent public URL with one curl request and no account, over a REST API or remote MCP server, and updates the same URL in place with an owner token." },
         { name: "Firebase Hosting", url: "https://firebase.google.com/products/hosting", status: "alive", description: "Google's fast, secure web app hosting with one-command deploys and global CDN." },
         { name: "Gatsby Cloud", url: "https://www.gatsbyjs.com/products/cloud/", status: "defunct", description: "Sunset; the page now serves Netlify's announcement of the cloud platform's evolution." },
         { name: "Github Pages", url: "https://pages.github.com/", status: "alive", description: "Websites for you and your projects — hosted directly from your GitHub repository. Just edit, push, live." },
@@ -975,7 +988,9 @@ const DATA = {
         { name: "Flynn", url: "https://github.com/flynn/flynn", github: "https://github.com/flynn/flynn", stars: 7845, status: "defunct", description: "Next-generation open source platform-as-a-service. Project is unmaintained per its README." },
         { name: "Hatchbox", url: "https://www.hatchbox.io", status: "alive", description: "Cost-effective hosting for Rails, Ruby, and Node.js — deploy to your own infrastructure." },
         { name: "Hephy", url: "https://web.teamhephy.com/", status: "defunct", description: "Site offline; community-maintained successor to Deis is no longer reachable." },
+        { name: "Hosbah", url: "https://hosbah.com", status: "alive", description: "Open-source (AGPL-3.0) server management and app hosting: bring your own servers or Proxmox, git deploys with zero downtime, databases, backups and tunnels." },
         { name: "Humanitec", url: "https://humanitec.com/", status: "alive", description: "Internal Developer Platform for the enterprise — reduce cognitive load, drive standardization, slash time to market." },
+        { name: "Jokku", url: "https://jokku.dev", status: "alive", description: "Self-hosted PaaS with Dokku's commands and git push deploys; runs each app instance in a Firecracker microVM, across a cluster." },
         { name: "JustDeploy", url: "https://github.com/cchalop1/JustDeploy", github: "https://github.com/cchalop1/JustDeploy", status: "alive", description: "PaaS tool designed to simplify developers' lives — deploy applications to your own servers in just one click." },
         { name: "Kamal", url: "https://kamal-deploy.org", github: "https://github.com/basecamp/kamal", stars: 14495, status: "alive", description: "Deploy web apps anywhere from bare metal to cloud VMs — by 37signals." },
         { name: "Knative", url: "https://knative.dev/docs/", github: "https://github.com/knative", status: "alive", description: "Kubernetes-based platform for serverless workloads." },
@@ -1002,6 +1017,7 @@ const DATA = {
         { name: "Stacksnap", url: "https://klo.dev/stacksnap", status: "defunct", description: "Page returns 404 on klo.dev — Stacksnap is no longer available." },
         { name: "Temps", url: "https://temps.sh", github: "https://github.com/gotempsh/temps", status: "alive", description: "Self-hosted PaaS bundling deployments, web analytics, error tracking, session replay, and uptime monitoring in one Rust binary." },
         { name: "TrueFoundry", url: "https://truefoundry.com", status: "alive", description: "Enterprise-grade AI Gateway combining LLM, MCP, and Agent Gateways — connect, monitor, and govern agentic AI applications." },
+        { name: "Tugport", url: "https://tugport.com", status: "alive", description: "Self-hosted PaaS in one Rust binary next to Docker: zero-downtime deploys on every push, scaling across servers, and one-command moves off Easypanel or Coolify." },
         { name: "Uncloud", url: "https://uncloud.run", github: "https://github.com/psviderski/uncloud", stars: 5441, status: "alive", description: "Take Docker Compose apps to production with zero-downtime deployments, automatic HTTPS, and cross-machine scaling — without Kubernetes complexity." },
         { name: "VMware Tanzu", url: "https://tanzu.vmware.com", status: "alive", description: "VMware's enterprise PaaS — accelerate ideas to production by simplifying and integrating processes and tools." },
         { name: "Werf", url: "https://werf.io", github: "https://github.com/werf/werf", stars: 4715, status: "alive", description: "GitOps tool by Flant for delivering applications to Kubernetes." },
