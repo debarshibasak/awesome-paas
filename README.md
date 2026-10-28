@@ -200,6 +200,7 @@ Following providers and products are listed in alphabetical order.
 
 #### Cloud IDE or Developer Workspaces
 
+- [AppWizzy](https://appwizzy.com/) `alive` — browser-based development environment with a dedicated VM, AI coding agents, and Git integration for web apps.
 - [Cocalc](https://cocalc.com/) `alive` — collaborative calculation and data science platform.
 - [Codepen](https://codepen.io/) `alive` — front-end playground for HTML, CSS, and JavaScript.
 - [Coder.com](https://coder.com/) `alive` — enterprise AI development infrastructure; self-hosted environments.
