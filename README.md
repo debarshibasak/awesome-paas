@@ -171,6 +171,7 @@ Following providers and products are listed in alphabetical order.
 - [Kubeless](https://kubeless.io/) `defunct` — site offline; project was archived.
 - [Kubernetes](https://kubernetes.io/) `alive` — production-grade container orchestration.
 - [Kubero](https://github.com/kubero-dev/kubero) `alive` — free, self-hosted PaaS alternative running on Kubernetes.
+- [Levelrail](https://levelrail.com) `alive` — self-hosted alternative to Vercel and Coolify: git push deploys, automatic HTTPS, logs and rollback, no Kubernetes.
 - [Linx](https://linx.software) `alive` — low-code iPaaS platform for integration, API development, and business process automation.
 - [Northflank](https://northflank.com/) `alive` — developer platform for deploying any project, on Northflank's cloud or yours.
 - [Openfaas](https://www.openfaas.com/) `alive` — serverless functions made simple with Kubernetes.
