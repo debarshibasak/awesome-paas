@@ -88,6 +88,7 @@ Following providers and products are listed in alphabetical order.
 - [Uppcoder](https://portal.uppcoder.com) `alive` — app hosting with VS Code in the browser and a terminal in the app's own container, PostgreSQL alongside, automatic HTTPS; free plan with one app and one database, no card.
 - [Upsun (formerly Platform.sh)](https://platform.sh) `alive` — highly flexible PaaS with predictable pricing and self-service resources.
 - [xhostd](https://xhostd.com) `alive` — Agent-first cloud platform for deploying and running apps built with AI coding agents. Managed PostgreSQL, authentication, isolated environments, backups, and rollback.
+- [Varity](https://varity.so) `alive` — cloud for apps, AI agents, virtual machines, GPUs, and self-hosted LLMs; deploy from the CLI, a web portal, or an AI editor over MCP, with the monthly cost shown before you deploy and no bandwidth or egress fees.
 - [VibeKit](https://vibekit.bot/?ref=awesome_awesome-paas) `alive` — AI app building and hosting platform; chat with an agent (web or iOS app) that builds, deploys and maintains your app on a vibekit.bot subdomain or custom domain, with an optional managed Postgres add-on (unrelated to the superagent-ai/vibekit SDK).
 - [Zeabur](https://zeabur.com) `alive` — AI DevOps engineer; an agent that runs your infrastructure while AI writes your code.
 - [Zerops](https://zerops.io) `alive` — bare-metal developer cloud with full Linux containers, hardware-only pricing, and managed databases on project-private networking.
