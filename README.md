@@ -63,6 +63,7 @@ Following providers and products are listed in alphabetical order.
 - [MicroCloud](https://canonical.com/microcloud) `alive` — Canonical's lightweight, automated open source cloud platform.
 - [Mogenius](https://mogenius.com) `alive` — cloud-native development platform built on Kubernetes.
 - [MoodLensAI](https://moodlensai.com) `alive` — managed hosting for apps deployed from GitHub and one-click apps like n8n and WordPress, with zero-downtime releases, free SSL and daily backups on fixed plans from $5/month.
+- [Nhost](https://nhost.io) `alive` — managed backend for agentic apps: Postgres, GraphQL, auth, storage, functions and an MCP server for AI agents; open source and self-hostable.
 - [Nife](https://nife.io/) `alive` — application platform for deploying and operating workloads across public cloud, edge, Kubernetes, bare metal, and private infrastructure from one control plane.
 - [Orbit](https://orbit.runonflux.com) `alive` — deploy any Git repo to the Flux decentralized cloud; git push-to-deploy with Nixpacks framework detection, no single point of failure, no egress fees, and a free-forever tier (paid from $0.99/mo)
 - [Ownkube](https://ownkube.io) `alive` — a cloud for personal software; deploy apps, workers, jobs, managed Postgres and Valkey from your coding agent or GitHub, each on its own HTTPS hostname, on prepaid credit from $5 that never expires.
