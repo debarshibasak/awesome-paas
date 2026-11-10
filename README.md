@@ -77,6 +77,7 @@ Following providers and products are listed in alphabetical order.
 - [Qovery](https://www.qovery.com/) `alive` — Enterprise Kubernetes management platform. Deploy applications, databases, Helm charts, and Terraform modules on AWS EKS, GCP GKE, Azure AKS, and Scaleway. Cost-efficient GPU scheduling for AI/ML workloads. Includes [Terraform provider](https://registry.terraform.io/providers/Qovery/qovery/latest/docs), CLI, API, [MCP Server](https://mcp.qovery.com/mcp), and [AI Agent Skill](https://github.com/Qovery/qovery-skills).
 - [Railway](https://railway.app/) `alive` — full-stack cloud for deploying web apps, servers, and databases with automatic scaling, monitoring, and security.
 - [Render](https://render.com) `alive` — cloud for builders; deploy and scale any app or agent on intuitive cloud infrastructure.
+- [SailOps](https://sailops.io/en/) `alive` — French container PaaS: runs images from any registry with managed PostgreSQL, MariaDB and Valkey, gateways with automatic TLS and built-in monitoring; customer data hosted in Paris on Scaleway and OVHcloud, billed in EUR.
 - [Scalingo](https://scalingo.com) `alive` — French PaaS, European Heroku alternative.
 - [Sevalla](https://sevalla.com) `alive` — modern application hosting platform from Kinsta.
 - [Sliplane.io](https://sliplane.io) `alive` — fully managed Container as a Service platform that simplifies Docker hosting.
