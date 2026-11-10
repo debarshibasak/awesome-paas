@@ -43,6 +43,7 @@ Following providers and products are listed in alphabetical order.
 - [DormHost](https://dormhost.dev) `alive`: Heroku-style git push deploys for student and hobby projects; Node.js, Python, Go, Java, Ruby, PHP, .NET, or a Dockerfile, with MongoDB/PostgreSQL/MySQL on the same machine, 30-day free trial, sleeps when idle and wakes in ~300ms.
 - [dotCloud](https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc) `defunct` — historical; dotCloud became Docker, Inc.
 - [Engine Yard](https://www.engineyard.com) `alive` — managed cloud platform for Ruby on Rails and modern web apps.
+- [ESN Hosting](https://esnoffical.com) `alive` — managed hosting for Discord and Telegram bots, small apps and game servers on a Pterodactyl panel; Python, Node.js, Java, Go and more, with one-click bot templates. From $0.50/month (256 MB), billed monthly or yearly.
 - [Eurobase Cloud](https://eurobase.dev/) `alive` — European PaaS: deploy web apps from GitHub, yourself or with your coding agent.
 - [Flightcontrol (now Ravion)](https://www.ravion.com?ref=awesome-paas) `alive` — Vercel-like PaaS that deploys directly to your own AWS account; no black box, lock-in, or AWS markups.
 - [Fly.io](https://fly.io) `alive` — global app platform that runs your code close to users.
