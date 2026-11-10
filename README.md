@@ -106,6 +106,7 @@ Following providers and products are listed in alphabetical order.
 - [Daytona](https://www.daytona.io/) `alive` — secure infrastructure for running AI-generated code with 90ms environment creation and stateful operations.
 - [E2B](https://e2b.dev/) `alive` — secure computers/sandboxes for AI agents; used by 88% of Fortune 100 companies.
 - [Modal](https://modal.com) `alive` — serverless platform for AI and data teams.
+- [QIT](https://qit.energy) `alive` — GPU containers. Built for AI; AI Model API plus serverless/reserved GPUs (QIT Pods).
 - [Ravion](https://www.ravion.com/) `alive` — Vercel-like experience in your own AWS account for agents and humans; manage and monitor Terraform resources, builds, and deploys in one place.
 - [Runloop](https://www.runloop.ai/) `alive` — AI agent accelerator with secure code sandboxes and evaluations for production agents.
 - [RunPod](https://www.runpod.io) `alive` — GPU cloud for AI training and inference workloads.
