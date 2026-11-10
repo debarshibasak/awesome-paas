@@ -117,6 +117,7 @@ Following providers and products are listed in alphabetical order.
 #### Jamstack
 
 - [AWS Amplify](https://aws.amazon.com/amplify) `alive` — full-stack web and mobile app development platform on AWS.
+- [BrewPage](https://brewpage.app) `alive` — free hosting for HTML pages, static sites (ZIP), Markdown, JSON and files; one POST, the web editor or a remote MCP server returns a shareable HTTPS link with no account or API key, and an owner token updates or deletes it; links last up to 30 days (90 with a free account).
 - [Cloudflare Pages](https://pages.cloudflare.com/) `alive` — Jamstack hosting on Cloudflare's global edge network.
 - [deed.page](https://deed.page) `alive` — static hosting for AI agents; publishes an HTML file or static folder to a permanent public URL with one curl request and no account, over a REST API or remote MCP server, and updates the same URL in place with an owner token.
 - [Firebase Hosting](https://firebase.google.com/products/hosting) `alive` — Google's fast, secure web app hosting.
