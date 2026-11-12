@@ -2,6 +2,10 @@
 
 A curated list of PaaS, developer platforms tools to emulate PaaS on cloud, Cloud IDEs and ADNs. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
+### Tutorials
+
+The [tutorial directory](tutorial/readme.md) will collect step-by-step guides on how to use the platforms listed here.
+
 ### Contributions
 
 In a scenario if you think your (favorite) service is not listed here. Please feel free to create a pull-request. Also, please adhere to the contribution guidelines while making PR. In a scenario where you would like dispute certain service of list, please feel free to create an issue. Contribution Guidelines can be found [here](CONTRIBUTING.md).
