@@ -8,7 +8,7 @@ In a scenario if you think your (favorite) service is not listed here. Please fe
 
 ### Status
 
-Each entry below is tagged `alive` (still operating) or `defunct` (project ended, domain dead, or repurposed). Verified 2026-09-28.
+Each entry below is tagged `alive` (still operating) or `defunct` (project ended, domain dead, repurposed, or explicitly unmaintained). Reviewed 2026-11-12. Inconclusive checks retain the previous status; see the [status review](STATUS.md) for evidence and verification limits.
 
 ### Contents
 
@@ -22,7 +22,7 @@ Following providers and products are listed in alphabetical order.
 - [AppLaunch](https://applaunch.org/docker-hosting) `alive` — managed Docker Compose platform with GitHub auto-deploy, persistent volumes, public ports, custom domains, logs, and backups.
 - [Appliku](https://appliku.com) `alive` — modern application deployment platform; deploy unlimited apps and databases for one monthly price via git push.
 - [apply.build](https://apply.build) `alive` — European PaaS with WAF, vulnerability scanning, metrics, and logs included in every plan.
-- [Aptible](https://aptible.com) `alive` — secure, HITRUST R2 certified cloud infrastructure for digital health teams.
+- [Aptible](https://www.aptible.com/) `alive` — secure, HITRUST R2 certified cloud infrastructure for digital health teams.
 - [AWS App Runner](https://aws.amazon.com/apprunner) `alive` — managed container service that deploys directly from source code or container images.
 - [AWS ECS](https://aws.amazon.com/ecs) `alive` — Amazon's fully managed container orchestration service.
 - [AZIN](https://azin.run) `defunct` — repurposed; azin.run now redirects to boxd.sh (the same team's cloud VM product), and the git-push deploy into your own GCP, AWS, or Azure account is no longer offered.
@@ -32,8 +32,8 @@ Following providers and products are listed in alphabetical order.
 - [Cloud 66](https://www.cloud66.com/) `alive` — DevOps platform that deploys applications to any cloud provider or your own servers.
 - [Cloudways](https://www.cloudways.com) `alive` — managed cloud hosting across major cloud providers.
 - [Coherence](https://www.withcoherence.com/?ref=awesome-paas) `defunct` — site offline; product was a PaaS in your own AWS or GCP account.
-- [Convox](https://convox.com) `alive` — multi-cloud PaaS with consistent deployment workflows.
-- [Cyclic](https://www.cyclic.sh/) `defunct` — site offline; project was acquired and shut down.
+- [Convox](https://www.convox.com/) `alive` — multi-cloud PaaS with consistent deployment workflows.
+- [Cyclic](https://www.cyclic.sh/) `defunct` — Shut down in May 2024; the official announcement scheduled all usage to end on May 31, 2024.
 - [Dada Cloud](https://cloud.dada-tuda.ru) `alive` — Russia-based PaaS with git push deploys, managed PostgreSQL, custom domains with automatic TLS, monitoring, and one-click rollback; free plan, data hosted in Russia.
 - [DeployHQ](https://www.deployhq.com) `alive` — Git-based deployment automation that deploys from GitHub, GitLab, or Bitbucket to servers via SSH/SFTP/S3 with build pipelines and one-click rollback.
 - [Digitalocean App Platform](https://www.digitalocean.com/products/app-platform) `alive` — DigitalOcean's managed PaaS for building, deploying, and scaling apps.
@@ -49,7 +49,7 @@ Following providers and products are listed in alphabetical order.
 - [Fly.io](https://fly.io) `alive` — global app platform that runs your code close to users.
 - [fortrabbit](https://www.fortrabbit.com) `alive` — PHP as a Service, since 2012, from Germany, two data centers, runs on AWS.
 - [France Nuage](https://france-nuage.fr) `alive` — Sovereign open-source cloud (SSPL-1.0) hosted 100% in France; managed open-source apps and S3 object storage.
-- [Genezio](https://genezio.com) `alive` — full-stack development platform with type-safe client/server communication.
+- [Genezio](https://genezio.com) `defunct` — The public deployment platform closed; genezio.com now offers an AI visibility and GEO platform.
 - [Google Cloud AppEngine](https://cloud.google.com/appengine) `alive` — fully managed serverless platform for web and mobile backends.
 - [Google Cloud Run](https://cloud.google.com/run) `alive` — fully managed platform for containerized apps in any language.
 - [Granite](https://granite.so) `alive` — deploy apps, managed databases, and S3-compatible storage from source or Docker images; built-in container registry and unlimited team seats on every plan; formerly NoVPS, from $9/mo.
@@ -58,7 +58,7 @@ Following providers and products are listed in alphabetical order.
 - [IBM Cloud Code Engine](https://cloud.ibm.com/codeengine) `alive` — fully managed serverless platform on IBM Cloud.
 - [InstaPods](https://instapods.com) `alive` — one-command deploys for AI-built apps; $3/mo after 7-day free trial.
 - [Koyeb](https://www.koyeb.com) `alive` — high-performance infrastructure for APIs, inference, and databases across CPUs, GPUs, and accelerators.
-- [lavela](https://lavela.dev) `alive` — deploy service for AI agents (beta): ship a GitHub repo to a live server from chat through a remote MCP server or the web console, with managed Postgres, cron, a custom domain you already own, and prepaid usage with no subscription.
+- [lavela](https://console.lavela.dev/) `alive` — deploy service for AI agents (beta): ship a GitHub repo to a live server from chat through a remote MCP server or the web console, with managed Postgres, cron, a custom domain you already own, and prepaid usage with no subscription.
 - [Light Cloud](https://light-cloud.com) `alive` — deploy static sites, containers and APIs from Git, the CLI or a coding agent (MCP server), with managed Postgres and MySQL; free plan with $1 of usage a month and no card.
 - [Linode (Akamai Cloud)](https://www.linode.com) `alive` — Akamai's developer cloud with managed Kubernetes, databases, and compute.
 - [MicroCloud](https://canonical.com/microcloud) `alive` — Canonical's lightweight, automated open source cloud platform.
@@ -70,7 +70,7 @@ Following providers and products are listed in alphabetical order.
 - [Ownkube](https://ownkube.io) `alive` — a cloud for personal software; deploy apps, workers, jobs, managed Postgres and Valkey from your coding agent or GitHub, each on its own HTTPS hostname, on prepaid credit from $5 that never expires.
 - [Pethost](https://pethost.dev/) `alive` — a small cloud for personal projects: runs Docker Compose projects as written, with GitHub deploys, nightly backups and rollbacks, managed from a CLI, a web panel or your coding agent over MCP. From €9.99/month, no fee per project.
 - [PikaPods](https://www.pikapods.com) `alive` — managed hosting for open-source apps (Immich, n8n and many more) with no server setup; prepaid credit billed by the hour, 20% revenue share with app authors where possible. From $1.80/month, with $5 welcome credit.
-- [platformOS](https://platformos.com) `alive` — fully managed PaaS with no vendor lock-in or hidden fees.
+- [platformOS](https://www.platformos.com/) `alive` — fully managed PaaS with no vendor lock-in or hidden fees.
 - [Ploi](https://ploi.io) `alive` — server management and site deployment tool.
 - [podway](https://podway.io) `alive` — managed hosting for open-source apps (n8n, Uptime Kuma, Paperless-ngx and more), each in its own pod; snapshot before every upgrade with automatic rollback, and an AI admin you steer from Claude. Start free with one app, no card needed; from $4/month per app.
 - [Prisma](https://www.prisma.io/) `alive`: developer platform for TypeScript apps with managed Postgres, app hosting that scales to zero, and an ORM.
@@ -85,9 +85,9 @@ Following providers and products are listed in alphabetical order.
 - [SnapDeploy](https://snapdeploy.dev) `alive` — Docker container hosting on AWS. Deploy for free, pay only when you need always on.
 - [sota.io](https://sota.io) `alive` — EU-native managed PaaS on Hetzner Germany infrastructure, git-push deploy for any language, managed PostgreSQL 17 included, no US parent/CLOUD Act exposure, from EUR 9/month.
 - [Staxa](https://staxa.dev) `alive` — multi-tenant app hosting for small businesses; each customer gets their own app, database, subdomain and SSL in an isolated Kubernetes namespace, provisioned from a dashboard or an API.
-- [Supabase.io](https://github.com/supabase/supabase) `alive` — open-source Postgres development platform for web, mobile, and AI applications.
+- [Supabase](https://supabase.com) `alive` — open-source Postgres development platform for web, mobile, and AI applications.
 - [The Vibe Hosting](https://thevibehosting.com) `alive` — free hosting for coding agents: one HTTP call gives the agent a root Linux server (gVisor sandbox) on an HTTPS subdomain or your own domain; no signup or card, sleeps when idle and wakes on the next request, monthly free credit then pay-as-you-go.
-- [TinyFunction](https://www.tinyfunction.com/) `alive` — lightweight function hosting.
+- [TinyFunction](https://tinyfunction.com/) `alive` — lightweight function hosting.
 - [TinyStacks](https://www.tinystacks.com/) `defunct` — domain listed for sale; project no longer operating.
 - [Uppcoder](https://portal.uppcoder.com) `alive` — app hosting with VS Code in the browser and a terminal in the app's own container, PostgreSQL alongside, automatic HTTPS; free plan with one app and one database, no card.
 - [Upsun (formerly Platform.sh)](https://platform.sh) `alive` — highly flexible PaaS with predictable pricing and self-service resources.
@@ -125,7 +125,7 @@ Following providers and products are listed in alphabetical order.
 - [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud/) `defunct` — sunset; the page now serves Netlify's acquisition announcement.
 - [Github Pages](https://pages.github.com/) `alive` — static site hosting directly from your GitHub repository.
 - [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) `alive` — static site hosting integrated into GitLab.
-- [Glitch](https://glitch.com/) `defunct` — collaborative web app builder; web hosting is being phased out (see [announcement](https://blog.glitch.com/post/changes-are-coming-to-glitch/)).
+- [Glitch](https://glitch.com/) `defunct` — Project hosting and user profiles shut down on July 8, 2025; the domain now redirects to the Glitch blog.
 - [harvis.dev](https://harvis.dev) `alive` — static hosting in one command; uploads a folder as-is and returns a live URL in seconds with no account, config, or build step. Also deployable from the browser, an HTTP API, a GitHub Action, or an AI agent over MCP.
 - [layer0](https://www.layer0.co) `defunct` — site offline; rebranded to Edgio, which itself was later acquired and wound down.
 - [Netlify](https://www.netlify.com) `alive` — Jamstack platform for production-ready web infrastructure with AI and code workflows. (Now also home to the former Gatsby Cloud.)
@@ -139,7 +139,7 @@ Following providers and products are listed in alphabetical order.
 - [AWS Lambda](https://aws.amazon.com/lambda/) `alive` — serverless compute service that runs code without provisioning servers.
 - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) `alive` — event-driven, scheduled serverless compute on Azure.
 - [Cloudflare Workers](https://workers.cloudflare.com/) `alive` — serverless code execution on Cloudflare's global edge.
-- [Deno Deploy](https://deno.com/deploy) `alive` — global edge platform for anything that runs with JavaScript or TypeScript.
+- [Deno Deploy](https://deno.com/deploy) `alive` — Global JavaScript and TypeScript hosting; still operating, with shutdown announced for April 2027 following the Deno team joining Cloudflare.
 - [Fastly Compute](https://www.fastly.com/products/edge-compute) `alive` — Wasm edge computing on Fastly's global network.
 - [Suborbital e2core (formerly Atmo)](https://github.com/suborbital/e2core) `defunct` — server for sandboxed third-party plugins powered by WebAssembly; repo dormant since Aug 2023 and suborbital.dev now serves an unrelated site.
 - [Wasmer Edge](https://wasmer.io/products/edge) `alive` — WebAssembly-based edge platform.
@@ -176,7 +176,7 @@ Following providers and products are listed in alphabetical order.
 - [Kamal](https://kamal-deploy.org) `alive` — deploy web apps anywhere from bare metal to cloud VMs (by 37signals).
 - [Knative](https://knative.dev/docs/) `alive` — Kubernetes-based platform for serverless workloads.
 - [Komodor](https://komodor.com/) `alive` — autonomous AI SRE platform for Kubernetes.
-- [Kubeless](https://kubeless.io/) `defunct` — site offline; project was archived.
+- [Kubeless](https://kubeless.io/) `defunct` — Kubernetes-native serverless framework; the repository was archived on December 15, 2021 and is no longer maintained.
 - [Kubernetes](https://kubernetes.io/) `alive` — production-grade container orchestration.
 - [Kubero](https://github.com/kubero-dev/kubero) `alive` — free, self-hosted PaaS alternative running on Kubernetes.
 - [Linx](https://linx.software) `alive` — low-code iPaaS platform for integration, API development, and business process automation.
@@ -194,7 +194,7 @@ Following providers and products are listed in alphabetical order.
 - [Setops](https://www.setops.co/) `defunct` — site offline.
 - [Skaffold](https://skaffold.dev/) `alive` — fast, repeatable, simple workflow for Kubernetes development.
 - [Spacecloud](https://space-cloud.io/) `alive` — instant realtime APIs for serverless apps.
-- [Spaceship / Shipmate](https://spaceship.run) `alive` — one-click code launcher.
+- [Spaceship / Shipmate](https://shipmate.run/) `alive` — one-click code launcher.
 - [Stacksnap](https://klo.dev/stacksnap) `defunct` — page returns 404 on klo.dev.
 - [Temps](https://temps.sh) `alive` — self-hosted PaaS bundling deploys, analytics, error tracking and session replay in one Rust binary.
 - [TrueFoundry](https://truefoundry.com) `alive` — enterprise-grade AI Gateway combining LLM, MCP, and Agent Gateways.
@@ -215,7 +215,7 @@ Following providers and products are listed in alphabetical order.
 - [Coder.com](https://coder.com/) `alive` — enterprise AI development infrastructure; self-hosted environments.
 - [Codesandbox](https://codesandbox.io/) `alive` — instant cloud development environments.
 - [Codetasty](https://codetasty.com/) `defunct` — site offline.
-- [Cloud9](https://aws.amazon.com/cloud9/) `defunct` — AWS browser-based IDE; closed to new customers since July 2024, existing customers only.
+- [Cloud9](https://aws.amazon.com/cloud9/) `alive` — AWS browser-based IDE; still operating for existing customers, with new customer access closed since July 25, 2024.
 - [Eclipse Che](https://www.eclipse.org/che/) `alive` — Kubernetes-native cloud IDE.
 - [Encore](https://encore.dev/) `alive` — open-source TypeScript backend framework with automated infrastructure.
 - [GitHub Codespaces](https://github.com/features/codespaces) `alive` — instant cloud-powered dev environments from GitHub.
