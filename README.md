@@ -203,6 +203,7 @@ Following providers and products are listed in alphabetical order.
 - [ZaneOps](https://zaneops.dev) `alive` — self-hosted, open source PaaS using Docker Swarm.
 - [Zeabur](https://zeabur.com) `alive` — AI DevOps engineer (also listed under PaaS).
 - [Zeet](https://zeet.co) `alive` — combines CI/CD, Kubernetes management, networking, and observability into one dashboard.
+- [Zenavo](https://www.zenavo.app) `alive` — deploys Git or Docker apps to your own VPS over SSH, with HTTPS, logs, metrics, backups, and one-step Zeabur template import; free plan requires your own VPS, paid from $5/month.
 
 #### Cloud IDE or Developer Workspaces
 
