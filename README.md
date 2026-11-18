@@ -152,6 +152,7 @@ Following providers and products are listed in alphabetical order.
 #### Self-Hosted PaaS or PaaS emulated
 
 - [Akamai App Platform (formerly Otomi)](https://otomi.io/) `alive` — Kubernetes app platform; now part of Akamai.
+- [Apinfra](https://github.com/uservseatb/apinfra) `alive` — lightweight GitOps agent to deploy Docker Compose projects on a single server with automatic Nginx reverse proxy and free SSL.
 - [Appaloft](https://github.com/nichenqin/appaloft) `defunct` — project no longer active; was an open-source Railway alternative: deploy a folder to a URL with `appaloft up` (git optional) on servers you control, plus `appaloft setup agent` for Cursor/OpenCode.
 - [Argonaut](https://argonaut.dev/) `defunct` — argonaut.dev now serves WarpBuild; the original Argonaut platform is no longer operating.
 - [Azure Krustlet](https://krustlet.dev/) `defunct` — Kubernetes Kubelet in Rust for running WebAssembly modules; the README states the project is no longer actively maintained and maintainers have moved on (last commit Oct 2023).
