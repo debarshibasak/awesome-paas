@@ -63,6 +63,7 @@ Following providers and products are listed in alphabetical order.
 - [Hostim.dev](https://hostim.dev/) `alive` — EU container hosting on Kubernetes in Germany: deploy Docker images, Compose files or Git repos, with managed Postgres, MySQL, Redis and volumes, HTTPS and logs. Flat prices from €2.50/month per app; each project gets free small databases and a 1 GB volume; 5-day trial, no card needed.
 - [IBM Cloud Code Engine](https://cloud.ibm.com/codeengine) `alive` — fully managed serverless platform on IBM Cloud.
 - [InstaPods](https://instapods.com) `alive` — one-command deploys for AI-built apps; $3/mo after 7-day free trial.
+- [koigrid](https://koigrid.com) `alive` — deploy apps from Git or Docker plus managed HA Postgres, Valkey cache, S3-compatible storage and cron jobs, priced per reserved GB of RAM with no egress fees; full REST API, CLI and remote MCP server.
 - [Koyeb](https://www.koyeb.com) `alive` — high-performance infrastructure for APIs, inference, and databases across CPUs, GPUs, and accelerators.
 - [lavela](https://console.lavela.dev/) `alive` — deploy service for AI agents (beta): ship a GitHub repo to a live server from chat through a remote MCP server or the web console, with managed Postgres, cron, a custom domain you already own, and prepaid usage with no subscription.
 - [Light Cloud](https://light-cloud.com) `alive` — deploy static sites, containers and APIs from Git, the CLI or a coding agent (MCP server), with managed Postgres and MySQL; free plan with $1 of usage a month and no card.
@@ -115,6 +116,7 @@ Following providers and products are listed in alphabetical order.
 - [CloudGPU](https://cloudgpu.app) `alive` — RTX 4090/5090 GPU instances for AI training and inference, an OpenAI-compatible API for open models, and an open-source MCP server that lets agents rent, use and release GPUs.
 - [Daytona](https://www.daytona.io/) `alive` — secure infrastructure for running AI-generated code with 90ms environment creation and stateful operations.
 - [E2B](https://e2b.dev/) `alive` — secure computers/sandboxes for AI agents; used by 88% of Fortune 100 companies.
+- [koigrid Sandboxes](https://koigrid.com/sandboxes) `alive` — Firecracker microVMs and one-shot sandboxes for AI agents: pause with memory, fork, snapshots, billed per second; driven by API, CLI or MCP.
 - [Modal](https://modal.com) `alive` — serverless platform for AI and data teams.
 - [QIT](https://qit.energy) `alive` — GPU containers. Built for AI; AI Model API plus serverless/reserved GPUs (QIT Pods).
 - [Ravion](https://www.ravion.com/) `alive` — Vercel-like experience in your own AWS account for agents and humans; manage and monitor Terraform resources, builds, and deploys in one place.
