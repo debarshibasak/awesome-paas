@@ -27,7 +27,7 @@ Following providers and products are listed in alphabetical order.
 - [Appliku](https://appliku.com) `alive` — modern application deployment platform; deploy unlimited apps and databases for one monthly price via git push.
 - [apply.build](https://apply.build) `alive` — European PaaS with WAF, vulnerability scanning, metrics, and logs included in every plan.
 - [Aptible](https://www.aptible.com/) `alive` — secure, HITRUST R2 certified cloud infrastructure for digital health teams.
-- [AW3 Host](https://aw3.host) `alive` — multi-cloud deployment control plane: deploy to 17 providers (Vercel, AWS, Cloudflare, Railway, GCP, Azure, Fly.io and more) from one dashboard, REST API or MCP server, with canary/blue-green rollouts, automatic rollback, weighted and geo routing, and failover.
+- [AW3 Host](https://aw3.host) `alive` — multi-cloud deployment control plane: deploy to AWS, Google Cloud, Azure, Cloudflare, Fly.io, Railway, Render, DigitalOcean, Kubernetes and more from one dashboard, REST API or MCP server, with automatic rollback when post-deploy health checks fail.
 - [AWS App Runner](https://aws.amazon.com/apprunner) `alive` — managed container service that deploys directly from source code or container images.
 - [AWS ECS](https://aws.amazon.com/ecs) `alive` — Amazon's fully managed container orchestration service.
 - [AZIN](https://azin.run) `defunct` — repurposed; azin.run now redirects to boxd.sh (the same team's cloud VM product), and the git-push deploy into your own GCP, AWS, or Azure account is no longer offered.
