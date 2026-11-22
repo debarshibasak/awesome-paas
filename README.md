@@ -117,6 +117,7 @@ Following providers and products are listed in alphabetical order.
 - [Daytona](https://www.daytona.io/) `alive` — secure infrastructure for running AI-generated code with 90ms environment creation and stateful operations.
 - [E2B](https://e2b.dev/) `alive` — secure computers/sandboxes for AI agents; used by 88% of Fortune 100 companies.
 - [koigrid Sandboxes](https://koigrid.com/sandboxes) `alive` — Firecracker microVMs and one-shot sandboxes for AI agents: pause with memory, fork, snapshots, billed per second; driven by API, CLI or MCP.
+- [LumiCloud](https://lumicloud.ai) `alive` — Firecracker microVM sandboxes for AI agents in Singapore, compatible with E2B's SDKs (set `E2B_DOMAIN`); pause with memory, snapshots, billed per second; remote MCP server.
 - [Modal](https://modal.com) `alive` — serverless platform for AI and data teams.
 - [QIT](https://qit.energy) `alive` — GPU containers. Built for AI; AI Model API plus serverless/reserved GPUs (QIT Pods).
 - [Ravion](https://www.ravion.com/) `alive` — Vercel-like experience in your own AWS account for agents and humans; manage and monitor Terraform resources, builds, and deploys in one place.
