@@ -110,6 +110,7 @@ Following providers and products are listed in alphabetical order.
 
 - [Adaptive](https://www.adaptive.live/) `alive` — access control plane for human, workload, and AI identities in hybrid environments.
 - [AgentBox](https://github.com/madarco/agentbox) `alive` — run multiple coding agents (Claude Code, Codex, OpenCode) in parallel sandboxed VMs across local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B, DigitalOcean); sub-1s checkpoints, git credentials kept on the host.
+- [Apidly Cloud](https://apidly.com) `alive` — managed GPU servers and serverless GPU endpoints with ready-made AI templates, billed by the second from prepaid credit.
 - [Beam Cloud](https://www.beam.cloud/) `alive` — AI infrastructure for sandboxes, inference, and training with ultrafast boot times and instant autoscaling.
 - [boxd](https://boxd.sh) `alive` — composable computers for devs and agents: real hardware-isolated Linux VMs in the cloud; compose one, then spin up as many as you need.
 - [Buddy.Works](https://buddy.works) `alive` — sandbox VMs for AI coding agents with app hosting, git repositories, and CI/CD workflows; accessible via REST API, MCP server, and the bdy CLI.
