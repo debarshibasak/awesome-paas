@@ -96,6 +96,7 @@ Following providers and products are listed in alphabetical order.
 - [The Vibe Hosting](https://thevibehosting.com) `alive` — free hosting for coding agents: one HTTP call gives the agent a root Linux server (gVisor sandbox) on an HTTPS subdomain or your own domain; no signup or card, sleeps when idle and wakes on the next request, monthly free credit then pay-as-you-go.
 - [TinyFunction](https://tinyfunction.com/) `alive` — lightweight function hosting.
 - [TinyStacks](https://www.tinystacks.com/) `defunct` — domain listed for sale; project no longer operating.
+- [Tofu](https://trytofu.ai) `alive` - hosting for apps built with AI tools: a coding agent (Claude Code, Codex, Cursor) or a chat in Claude, or in ChatGPT added by address, deploys the app through Tofu's MCP server, reads its status and logs, restores an earlier version, connects a domain, and adds a managed Postgres database or Google sign-in.
 - [Uppcoder](https://portal.uppcoder.com) `alive` — app hosting with VS Code in the browser and a terminal in the app's own container, PostgreSQL alongside, automatic HTTPS; free plan with one app and one database, no card.
 - [Upsun (formerly Platform.sh)](https://platform.sh) `alive` — highly flexible PaaS with predictable pricing and self-service resources.
 - [xhostd](https://xhostd.com) `alive` — Agent-first cloud platform for deploying and running apps built with AI coding agents. Managed PostgreSQL, authentication, isolated environments, backups, and rollback.
