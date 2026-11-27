@@ -211,6 +211,7 @@ Following providers and products are listed in alphabetical order.
 - [Temps](https://temps.sh) `alive` — self-hosted PaaS bundling deploys, analytics, error tracking and session replay in one Rust binary.
 - [TrueFoundry](https://truefoundry.com) `alive` — enterprise-grade AI Gateway combining LLM, MCP, and Agent Gateways.
 - [Tugport](https://tugport.com) `alive` — self-hosted PaaS in one Rust binary next to Docker: zero-downtime deploys on every push, scaling across servers, and one-command moves off Easypanel or Coolify.
+- [Tugra](https://tugra.io) `alive` — self-hosted, open-core PaaS for fleets of servers, with Docker Swarm HA, a built-in MCP server and in-place takeover of Coolify installs.
 - [Uncloud](https://uncloud.run) `alive` — production self-hosting for Docker Compose apps without Kubernetes complexity.
 - [VMware Tanzu](https://tanzu.vmware.com) `alive` — VMware's enterprise PaaS for accelerating ideas to production.
 - [Werf](https://werf.io) `alive` — GitOps tool by Flant for delivering apps to Kubernetes.
