@@ -124,6 +124,7 @@ Following providers and products are listed in alphabetical order.
 - [Runloop](https://www.runloop.ai/) `alive` — AI agent accelerator with secure code sandboxes and evaluations for production agents.
 - [RunPod](https://www.runpod.io) `alive` — GPU cloud for AI training and inference workloads.
 - [Runtime Cloud](https://withruntime.com) `alive` — Firecracker microVM sandboxes for AI agents, billed on active CPU ($0.025 per vCPU-hour) with no plan fee; pause and wake with memory kept, and E2B/Daytona SDK-compatible.
+- [Sandscale](https://sandscale.dev) `alive` — Firecracker microVM sandboxes and workspaces for AI coding agents, one per run, with a REST API, SDKs, CLI and remote MCP server; billed per awake vCPU-hour.
 
 #### Jamstack
 
